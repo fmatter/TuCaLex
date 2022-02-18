@@ -44,7 +44,7 @@ Tupian ‘father’. Incidentally, one of the forms with initial PT *Dj; lost in
 ## 25: 'fat'
 Not cognate. Wayana _kap-hak_ 'fat' is _kaphak_ in the original source; the likely intention was to create appearance of a TG-like form _kap_. The actual segmentation is _ka-phak_.
 
-1. 
+
 
 PC *_katɨ_ ‘fat’. Some languages reinterpreted the final syllable as a PERT marker.
 
@@ -59,7 +59,7 @@ PC *_katɨ_ ‘fat’. Some languages reinterpreted the final syllable as a PERT
 | _kap-hak_ | Wayana | k | a | - | - | 
 
 
-2. 
+
 
 Tupian ‘fat’. It is not clear if all forms are cognate.
 
