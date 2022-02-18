@@ -6,7 +6,7 @@ chardet==4.0.0
 -e git+git@github.com:fmatter/cldf_helpers.git@c19f70c3c673ab2101d9bb033430909539892678#egg=cldf_helpers
 cldfbench==1.9.0
 cldfcatalog==1.4.0
--e git+git@github.com:cldf/cldfviz.git@f9c732b58d6c773851c04e7cfb63267316165a91#egg=cldfviz
+-e git+git@github.com:cldf/cldfviz.git@dc559fced8de2aeee7e05fec39a3b6d2eac61516#egg=cldfviz
 clldutils==3.10.1
 colorama==0.4.4
 colorlog==6.6.0

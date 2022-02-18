@@ -4,7 +4,7 @@
 Crucially, his list A contains 121 cognate sets with items intended to illustrate a deeper genealogical connection between the two families.
 He does acknowledge the possibility of borrowing, but not of chance resemblance, and gives a list of cognate sets that are very solidly attested in both language families.
 Rodrigues does advise caution, due to the lack of knowledge about Cariban languages, and the resulting dearth of which these cognates are distributed in Cariban.
-These items, represented by numbers, are compared here; this document was created from the [data](cldf) with [cldfviz](https://github.com/cldf/cldfviz/)
+These items, represented by numbers, are compared here; this document was created from the [CLDF dataset](cldf) with [cldfviz](https://github.com/cldf/cldfviz/).
 
 ## 21: 'father'
 Presented synchronic forms not cognate once other cognates and reconstructions are considered:
@@ -40,7 +40,8 @@ Tupian ‘father’. Incidentally, one of the forms with initial PT *Dj; lost in
 
 
 ## 25: 'fat'
-Not cognate. Wayana _kap-hak_ 'fat' is _kaphak_ in the original source; the likely intention was to create appearance of a TG-like form _kap_. The actual segmentation is _ka-phak_.
+Not cognate. Wayana _kap-hak_ ‘fat’ is _kaphak_ in [de Goeje 1946](#source-degoeje1946wayana); the segmentation _kap-hak_ was perhaps to create the appearance of a TG-like form _kap_. The actual segmentation is _ka-phak_ ([Tavares 2005](#source-wayanatavares2005)).
+
 
 
 
