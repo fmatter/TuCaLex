@@ -71,3 +71,34 @@ Tupian ‘fat’. It is not clear if all forms are cognate.
 
 
 
+## 26: 'leaf'
+
+Not cognate.
+
+
+
+PC ‘leaf’. Rodrigues only lists reflexes of the form a.
+
+
+| Form | Language | - | - | - | - | 
+| :-- | :-- |  :-- |  :-- |  :-- |  :-- | 
+| _a_ | Bakairí | - | a | - | - | 
+| _sarɨ_ | Bakairí | s | a | r | ɨ | 
+| _jare_ | Cariban | j | a | r | e | 
+| _a_ | Hixkaryána | - | a | - | - | 
+| _a_ | Waiwai | - | a | - | - | 
+| _jaa_ | Waiwai | j | aa | - | - | 
+| _arɨ_ | Hixkaryána | - | a | r | ɨ | 
+
+
+
+
+Tupian ‘leaf’. Incidentally, one of the forms with initial PT *Dj.
+
+
+| Form | Language | - | - | 
+| :-- | :-- |  :-- |  :-- | 
+| _ɨp_ | Mundurukú | ɨ | p | 
+| _ep_ | Tuparí | e | p | 
+| _oβ_ | Tupinambá | o | β | 
+
