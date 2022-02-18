@@ -1,66 +1,35 @@
 # Alleged cognates between Cariban and Tupian languages
 
 
-| Name | Glottocode | ISO 639-3 |
-| :-- | :-- | :-- |
-| Wayana | waya1269 |  |
-| Arecuna | arec1238 |  |
-| Tuparí | tupa1250 |  |
-| Maweti-Guarani | mawe1252 |  |
-| Hixkaryána | hixk1239 |  |
-| Waiwai | waiw1244 |  |
-| Ye'kwana | maqu1238 |  |
-| Mundurukú | mund1330 |  |
-| Tupi-Guarani | tupi1276 |  |
-| Waiwaian | waiw1245 |  |
-| Awetí | awet1244 |  |
-| Taranoan | tara1324 |  |
-| Galibi Carib | gali1262 |  |
-| Macushi | macu1259 |  |
-| Taurepang-Arekuna | taul1252 |  |
-| Pemon | pemo1248 |  |
-| Apalaí | apal1257 |  |
-| Bakairí | baka1277 |  |
-| Cariban | cari1283 |  |
-| Mapoyo | mapo1246 |  |
-| Island Carib | isla1278 |  |
-| Wayumara | wayu1242 |  |
-| Ikpeng | ikpe1245 |  |
-| Tamanaku | tama1338 |  |
-| Pará Arára | para1310 |  |
-| Wayampi | waya1270 |  |
-| Parukotoan | paru1239 |  |
-| Panare | enap1235 |  |
-| Kuikúro-Kalapálo | kuik1246 |  |
-| Tupinambá | tupi1273 |  |
-| Yukpa | yukp1241 |  |
-| Nhengatu | nhen1239 |  |
-| Trió | trio1238 |  |
-| Ingariko | inga1250 |  |
-| Carijona | cari1279 |  |
-| Waimiri-Atroari | waim1253 |  |
-| Yabarana | yaba1248 |  |
-| Kaxuiâna | kaxu1237 |  |
-| Sateré-Mawé | sate1243 |  |
-| Akawaio-Ingariko | akaw1239 |  |
+## 21: 'father'
+
+
+
+PC ‘father’, tentatively reconstructed as *jumɨ.
+
+
+| Form | Language | - | - | - | - | - | 
+| :-- | :-- |  :-- |  :-- |  :-- |  :-- |  :-- | 
+| _um_ | Apalaí | - | u | - | m | - | 
+| _ũe_ | Bakairí | - | ũ | e | - | - | 
+| _jumɨ_ | Cariban | j | u | - | m | ɨ | 
+| _umu_ | Galibi Carib | - | u | - | m | u | 
+| _ɨm_ | Hixkaryána | - | ɨ | - | m | - | 
+| _uŋ_ | Pemon | - | u | - | ŋ | - | 
+| _ɨm_ | Waiwai | - | ɨ | - | m | - | 
 
 
 
 
-PC ‘to poison with timbó’.
+Tupian ‘father’. Incidentally, one of the forms with initial PT *Dj; lost in Tupari and reanalyzed in Aweti-Guarani. See [TuLaR](https://tular.clld.org/cognatesets/5755).
 
 
-| Form | Language | - | - | - | - | - | - | - | 
-| :-- | :-- |  :-- |  :-- |  :-- |  :-- |  :-- |  :-- |  :-- | 
-| _t͡ʃeme_ | Hixkaryána | - | t͡ʃ | e | m | - | - | e | 
-| _i-teg_ | Pemon | i | t | e | g | - | - | - | 
-| _e-tim-ui_ | Galibi Carib | e | t | i | m | u | - | i | 
-| _tɨmɨ_ | Macushi | - | t | ɨ | m | - | - | ɨ | 
-| _tinje_ | Trió | - | t | i | n | - | j | e | 
-| _tum_ | Wayana | - | t | u | m | - | - | - | 
-| _tɨmɨ_ | Apalaí | - | t | ɨ | m | - | - | ɨ | 
-| _tɨmə_ | Panare | - | t | ɨ | m | - | - | ə | 
-| _t͡ʃim_ | Waiwai | - | t͡ʃ | i | m | - | - | - | 
+| Form | Language | - | - | - | 
+| :-- | :-- |  :-- |  :-- |  :-- | 
+| _uβ_ | Tupinambá | - | u | β | 
+| _op_ | Tuparí | - | o | p | 
+| _up_ | Tupi-Guarani | - | u | p | 
+| _up_ | Maweti-Guarani | - | u | p | 
+| _sup_ | Sateré-Mawé | s | u | p | 
 
 
-References:
