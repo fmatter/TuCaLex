@@ -1,13 +1,10 @@
-# Alleged cognates between Cariban and Tupian languages[^1]
-
-[^1]: Created with [cldfviz](https://github.com/cldf/cldfviz/)
+# Alleged cognates between Cariban and Tupian languages
 
 [Rodrigues 1985](#source-rodrigues1985evidence) presents evidence for relationships between Cariban and Tupían languages, due to both contact and shared inheritance.
 Crucially, his list A contains 121 cognate sets with items intended to illustrate a deeper genealogical connection between the two families.
 He does acknowledge the possibility of borrowing, but not of chance resemblance, and gives a list of cognate sets that are very solidly attested in both language families.
-These items, represented by numbers, will be compared here.
-Note that Rodrigues advises caution, due to the lack of knowledge about Cariban languages, and the resulting dearth of which these cognates are distributed in Cariban.
-
+Rodrigues does advise caution, due to the lack of knowledge about Cariban languages, and the resulting dearth of which these cognates are distributed in Cariban.
+These items, represented by numbers, are compared here; this document was created from the [data](cldf) with [cldfviz](https://github.com/cldf/cldfviz/)
 
 ## 21: 'father'
 Presented synchronic forms not cognate once other cognates and reconstructions are considered:
