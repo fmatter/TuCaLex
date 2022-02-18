@@ -45,7 +45,7 @@ Not cognate. Wayana _kap-hak_ ‘fat’ is _kaphak_ in [de Goeje 1946](#source-d
 
 
 
-PC *_katɨ_ ‘fat’. Some languages reinterpreted the final syllable as a PERT marker.
+PC *_katɨ_ ‘fat’. Note that some languages reinterpreted the final syllable as a PERT marker.
 
 
 | Form | Language | - | - | - | - | 
