@@ -13,7 +13,7 @@ Presented synchronic forms not cognate once other cognates and reconstructions a
 
 
 
-PC ‘father’, tentatively reconstructed as *jumɨ.
+PC ‘father’, tentatively reconstructed as _*jumɨ_.
 
 
 | Form | Language | - | - | - | - | - | 
@@ -40,4 +40,33 @@ Tupian ‘father’. Incidentally, one of the forms with initial PT *Dj; lost in
 | _up_ | Maweti-Guarani | - | u | p | 
 | _sup_ | Sateré-Mawé | s | u | p | 
 
+
+## 25: 'fat'
+Wayana _kap-hak_ 'fat' is _kaphak_ in the original source; the likely intention was to create appearance of a TG-like form _kap_. The actual segmentation is _ka-phak_.
+
+
+
+PC *_katɨ_ ‘fat’. Some languages reinterpreted the final syllable as a PERT marker.
+
+
+| Form | Language | - | - | - | - | 
+| :-- | :-- |  :-- |  :-- |  :-- |  :-- | 
+| _katɨ_ | Cariban | k | a | t | ɨ | 
+| _ka-tɨ_ | Galibi Carib | k | a | t | ɨ | 
+| _ka-tɨ_ | Hixkaryána | k | a | t | ɨ | 
+| _ka_ | Waiwai | k | a | - | - | 
+| _ka-t_ | Wayana | k | a | t | - | 
+| _kap-hak_ | Wayana | k | a | - | - | 
+
+
+
+
+Tupian ‘fat’. It is not clear if all forms are cognate.
+
+
+| Form | Language | - | - | - | 
+| :-- | :-- |  :-- |  :-- |  :-- | 
+| _ʃep_ | Mundurukú | ʃ | e | p | 
+| _ʔap_ | Tuparí | ʔ | a | p | 
+| _kaβ_ | Tupinambá | k | a | β | 
 
