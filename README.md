@@ -77,7 +77,7 @@ Not cognate.
 
 
 
-PC ‘leaf’. Rodrigues only lists reflexes of the form a.
+PC _*jare_ ‘leaf’. Rodrigues only lists reflexes of the form a.
 
 
 | Form | Language | - | - | - | - | 
