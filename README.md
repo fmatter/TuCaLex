@@ -2,6 +2,7 @@
 
 
 ## 21: 'father'
+Presented synchronic forms not cognate once other cognates and reconstructions are considered:
 
 
 
