@@ -1,5 +1,6 @@
-# Alleged cognates between Cariban and Tupian languages
+# Alleged cognates between Cariban and Tupian languages[^1]
 
+[^1]: Created with [cldfviz](https://github.com/cldf/cldfviz/)
 
 [Rodrigues 1985](#source-rodrigues1985evidence) presents evidence for relationships between Cariban and Tupían languages, due to both contact and shared inheritance.
 Crucially, his list A contains 121 cognate sets with items intended to illustrate a deeper genealogical connection between the two families.
@@ -69,4 +70,6 @@ Tupian ‘fat’. It is not clear if all forms are cognate.
 | _ʃep_ | Mundurukú | ʃ | e | p | 
 | _ʔap_ | Tuparí | ʔ | a | p | 
 | _kaβ_ | Tupinambá | k | a | β | 
+
+
 
