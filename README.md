@@ -493,4 +493,3 @@ Tupian ‘timbó’. Tuparic has tiŋ/niŋ, Tupinamba and other TG *tim(b)o (TuL
 | _tiŋ_ | Tupinambá | t | i | ŋ | 
 | _niŋ_ | Tuparí | n | i | ŋ | 
 
-
