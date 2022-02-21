@@ -50,7 +50,7 @@ Tupian ‘father’. Incidentally, one of the forms with initial PT *Dj; lost in
 
 
 ### 25: 'fat'
-Wayana _kap-hak_ ‘fat’ is _kaphak_ in [de Goeje 1946](#source-degoeje1946wayana); the segmentation was perhaps done to create the appearance of a TG-like form _kap_. The actual segmentation is _ka-phak_ ([Tavares 2005](#source-wayanatavares2005)).
+_kap-hak_ ‘fat’ is _kaphak_ in [de Goeje 1946](#source-degoeje1946wayana); the segmentation was perhaps done to create the appearance of a TG-like form _kap_. The actual segmentation is _ka-phak_ ([Tavares 2005](#source-wayanatavares2005)).
 
 
 
