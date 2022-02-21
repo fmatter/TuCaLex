@@ -1,13 +1,20 @@
 # Alleged cognates between Cariban and Tupian languages
 
-[Rodrigues 1985](#source-rodrigues1985evidence) presents evidence for relationships between Cariban and Tupían languages, due to both contact and shared inheritance.
-Crucially, his list A contains 121 cognate sets with items intended to illustrate a deeper genealogical connection between the two families.
-He does acknowledge the possibility of borrowing, but not of chance resemblance, and gives a list of cognate sets that are very solidly attested in both language families.
-Rodrigues does advise caution, due to the lack of knowledge about Cariban languages, and the resulting dearth of which these cognates are distributed in Cariban.
-These items, represented by numbers, are compared here; this document was created from the [CLDF dataset](cldf) with [cldfviz](https://github.com/cldf/cldfviz/).
+[Rodrigues 1985](#source-rodrigues1985evidence) presents evidence for relationships between Cariban and Tupían languages.
+Among other things, he presents three lists of cognate forms between the two families, arguing that they are due to a) shared inheritance between Cariban and Tupían, b) contact between Proto-Tupi-Guarani and "North Amazonian Cariban", c) recent contact of Cariban languages with Nhengatu or some other TG language.
+Parts of these lists were modelled as a [CLDF dataset](cldf) and visualized with [cldfviz](https://github.com/cldf/cldfviz/).
 
-## 21: 'father'
-Presented synchronic forms not cognate once other cognates and reconstructions are considered:
+## List A
+This list contains 121 shared cognate sets which are argued to be likely due to shared inheritance from a common ancestor.
+Rodrigues does acknowledge the possibility of borrowing, but not of chance resemblance, and gives a list of cognate sets that are particularly solidly attested in both language families.
+Only this sublist was investigated, as it suffices to show that no genealogical connection can be established based on these particularly strong cognate sets.
+Cariban is mostly represented by Hixkaryána, Waiwai, Pemon, Galibi Carib, Bakairí, Macushi, and Tupían by Tupinambá and Tuparí.
+These data were augmented with additional cognate words from both families, as well as reconstructible forms.
+In most cases, simply comparing the reconstructed Proto-Tupi-Guarani and Proto-Cariban forms suffices to show that the words are, in fact, not even cognate.
+Rather, the perceived similarity is mostly due to chance resemblance.
+
+
+### 21: 'father'
 
 
 
@@ -18,7 +25,7 @@ PC ‘father’, tentatively reconstructed as _*jumɨ_.
 | :-- | :-- |  :-- |  :-- |  :-- |  :-- |  :-- | 
 | _um_ | Apalaí | - | u | - | m | - | 
 | _ũe_ | Bakairí | - | ũ | e | - | - | 
-| _jumɨ_ | Cariban | j | u | - | m | ɨ | 
+| _jumɨ_ | Proto-Cariban | j | u | - | m | ɨ | 
 | _umu_ | Galibi Carib | - | u | - | m | u | 
 | _ɨm_ | Hixkaryána | - | ɨ | - | m | - | 
 | _uŋ_ | Pemon | - | u | - | ŋ | - | 
@@ -34,13 +41,13 @@ Tupian ‘father’. Incidentally, one of the forms with initial PT *Dj; lost in
 | :-- | :-- |  :-- |  :-- |  :-- | 
 | _uβ_ | Tupinambá | - | u | β | 
 | _op_ | Tuparí | - | o | p | 
-| _up_ | Tupi-Guarani | - | u | p | 
-| _up_ | Maweti-Guarani | - | u | p | 
+| _up_ | Proto-Tupi-Guarani | - | u | p | 
+| _up_ | Proto-Maweti-Guarani | - | u | p | 
 | _sup_ | Sateré-Mawé | s | u | p | 
 
 
-## 25: 'fat'
-Clearly not cognate. Wayana _kap-hak_ ‘fat’ is _kaphak_ in [de Goeje 1946](#source-degoeje1946wayana); the segmentation was perhaps done to create the appearance of a TG-like form _kap_. The actual segmentation is _ka-phak_ ([Tavares 2005](#source-wayanatavares2005)).
+### 25: 'fat'
+Wayana _kap-hak_ ‘fat’ is _kaphak_ in [de Goeje 1946](#source-degoeje1946wayana); the segmentation was perhaps done to create the appearance of a TG-like form _kap_. The actual segmentation is _ka-phak_ ([Tavares 2005](#source-wayanatavares2005)).
 
 
 
@@ -50,7 +57,7 @@ PC *_katɨ_ ‘fat’. Note that some languages reinterpreted the final syllable
 
 | Form | Language | - | - | - | - | 
 | :-- | :-- |  :-- |  :-- |  :-- |  :-- | 
-| _katɨ_ | Cariban | k | a | t | ɨ | 
+| _katɨ_ | Proto-Cariban | k | a | t | ɨ | 
 | _ka-tɨ_ | Galibi Carib | k | a | t | ɨ | 
 | _ka-tɨ_ | Hixkaryána | k | a | t | ɨ | 
 | _ka_ | Waiwai | k | a | - | - | 
@@ -71,9 +78,7 @@ Tupian ‘fat’. It is not clear if all forms are cognate.
 
 
 
-## 26: 'leaf'
-
-Not cognate.
+### 26: 'leaf'
 
 
 
@@ -84,7 +89,7 @@ PC _*jare_ ‘leaf’. Rodrigues only lists reflexes of the form a.
 | :-- | :-- |  :-- |  :-- |  :-- |  :-- | 
 | _a_ | Bakairí | - | a | - | - | 
 | _sarɨ_ | Bakairí | s | a | r | ɨ | 
-| _jare_ | Cariban | j | a | r | e | 
+| _jare_ | Proto-Cariban | j | a | r | e | 
 | _a_ | Hixkaryána | - | a | - | - | 
 | _a_ | Waiwai | - | a | - | - | 
 | _jaa_ | Waiwai | j | aa | - | - | 
@@ -101,4 +106,5 @@ Tupian ‘leaf’. Incidentally, one of the forms with initial PT *Dj.
 | _ɨp_ | Mundurukú | ɨ | p | 
 | _ep_ | Tuparí | e | p | 
 | _oβ_ | Tupinambá | o | β | 
+
 
