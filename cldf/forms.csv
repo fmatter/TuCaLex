@@ -32,7 +32,7 @@ form-29,apal1257,termite,nuko,,,camargo2002lexico
 form-30,apal1257,war,rɨʔtan,,,camargo2002lexico
 form-31,apal1257,wild cat,marakazu,,,camargo2002lexico
 form-32,arec1238,alligator,jakare,,,rodrigues1985evidence
-form-33,baka1277, ahãĩ,ãʒi,,,
+form-33,baka1277, ahãĩ,ãʒi,,,meira2005bakairi
 form-34,baka1277,father,ũe,,,rodrigues1985evidence
 form-35,baka1277,female’s cousin,iiri,,,rodrigues1985evidence
 form-36,baka1277,leaf,a,,,rodrigues1985evidence
@@ -236,185 +236,186 @@ form-233,waya1269,ibis rubra,tokara,,,camargo2010wayana
 form-234,waya1269,jaguar,kaikui,,,camargo2010wayana
 form-235,waya1269,manatee,ipo,,,camargo2010wayana
 form-236,waya1269,marakanã (parrot),marakana,,,camargo2010wayana
-form-237,waya1269, murukuja,merekui,,,
-form-238,waya1269,older brother,akon,,,rodrigues1985evidence
-form-239,waya1269,ortalis bird,aragua,,,rodrigues1985evidence
-form-240,waya1269,pacu (fish),pasina,,,camargo2010wayana
-form-241,waya1269,parrot,parawa,,,rodrigues1985evidence
-form-242,waya1269,parrot,parawa,,,camargo2010wayana
-form-243,waya1269,parrot sp.,marakana,,,rodrigues1985evidence
-form-244,waya1269,passion flower,murukuja,,,rodrigues1985evidence
-form-245,waya1269,pineapple,nana,,,rodrigues1985evidence
-form-246,waya1269,pineapple,nana,,,camargo2010wayana
-form-247,waya1269,piranha,pəne,,,camargo2010wayana
-form-248,waya1269,sea,parana,,,rodrigues1985evidence
-form-249,waya1269,"sea, big river, wave",parana,,,camargo2010wayana
-form-250,waya1269,termite,nukə,,,camargo2010wayana
-form-251,waya1269,trunk,epu,,,rodrigues1985evidence
-form-252,waya1269,war,urinumtop,,,camargo2010wayana
-form-253,waya1269,wild cat,marakaja,,,rodrigues1985evidence
-form-254,waya1269,wild cat,marakaja,,,camargo2010wayana
-form-255,waya1269,xanthosoma,taja,,,rodrigues1985evidence
-form-256,waya1270,bow,wɨlapama,,,grenand2021wayampi
-form-257,waya1270,cockroach,alawɛ,,,grenand2021wayampi
-form-258,waya1270,corn,fat,,,grenand2021wayampi
-form-259,waya1270,garden-house,tapuina,,,grenand2021wayampi
-form-260,waya1270,jaguar,jawa,,,grenand2021wayampi
-form-261,waya1270,sea,palana,,,grenand2021wayampi
-form-262,waya1270,war,wanini,,,grenand2021wayampi
-form-263,waya1270,wild cat,malakaja,,,grenand2021wayampi
-form-264,wayu1242,bow,uhara,,,rodrigues1985evidence
-form-265,yaba1248,turtle,waraara,,,rodrigues1985evidence
-form-266,yaba1248,war,ualini,,,rodrigues1985evidence
-form-267,yukp1241,cockroach,kʂe,,,largo2011yukpa
-form-268,tupa1250,father,op,,,rodrigues1985evidence
-form-269,tupi1276,father,up,,,meiraetal2015summary
+form-237,waya1269,marakuja,merekui,,,camargo2010wayana
+form-238,waya1269,marakuja,murukuja,,,camargo2010wayana
+form-239,waya1269,older brother,akon,,,rodrigues1985evidence
+form-240,waya1269,ortalis bird,aragua,,,rodrigues1985evidence
+form-241,waya1269,pacu (fish),pasina,,,camargo2010wayana
+form-242,waya1269,parrot,parawa,,,rodrigues1985evidence
+form-243,waya1269,parrot,parawa,,,camargo2010wayana
+form-244,waya1269,parrot sp.,marakana,,,rodrigues1985evidence
+form-245,waya1269,passion flower,murukuja,,,rodrigues1985evidence
+form-246,waya1269,pineapple,nana,,,rodrigues1985evidence
+form-247,waya1269,pineapple,nana,,,camargo2010wayana
+form-248,waya1269,piranha,pəne,,,camargo2010wayana
+form-249,waya1269,sea,parana,,,rodrigues1985evidence
+form-250,waya1269,"sea, big river, wave",parana,,,camargo2010wayana
+form-251,waya1269,termite,nukə,,,camargo2010wayana
+form-252,waya1269,trunk,epu,,,rodrigues1985evidence
+form-253,waya1269,war,urinumtop,,,camargo2010wayana
+form-254,waya1269,wild cat,marakaja,,,rodrigues1985evidence
+form-255,waya1269,wild cat,marakaja,,,camargo2010wayana
+form-256,waya1269,xanthosoma,taja,,,rodrigues1985evidence
+form-257,waya1270,bow,wɨlapama,,,grenand2021wayampi
+form-258,waya1270,cockroach,alawɛ,,,grenand2021wayampi
+form-259,waya1270,corn,fat,,,grenand2021wayampi
+form-260,waya1270,garden-house,tapuina,,,grenand2021wayampi
+form-261,waya1270,jaguar,jawa,,,grenand2021wayampi
+form-262,waya1270,sea,palana,,,grenand2021wayampi
+form-263,waya1270,war,wanini,,,grenand2021wayampi
+form-264,waya1270,wild cat,malakaja,,,grenand2021wayampi
+form-265,wayu1242,bow,uhara,,,rodrigues1985evidence
+form-266,yaba1248,turtle,waraara,,,rodrigues1985evidence
+form-267,yaba1248,war,ualini,,,rodrigues1985evidence
+form-268,yukp1241,cockroach,kʂe,,,largo2011yukpa
+form-269,tupa1250,father,op,,,rodrigues1985evidence
+form-270,tupi1276,father,up,,,meiraetal2015summary
 way-fat,waya1269,fat,kap-hak,,,rodrigues1985evidence
-form-271,hixk1239,leaf,arɨ,,,hixkaryanaderby1979
-form-272,tupi1273,heel,pɨta,,,rodrigues1985evidence
-form-273,tupa1250,foot,sito,,,rodrigues1985evidence
-form-274,cari1283,sole,pɨta,,,gildea2007greenberg
-form-275,tupi1276,heel,pɨta,,,mello2000ptg
-form-276,mund1330,heel,ida,,,rodrigues1985evidence
-form-277,hixk1239,sole,ɨhta,,,rodrigues1985evidence
-form-278,waiw1244,sole,hta,,,rodrigues1985evidence
-form-279,pemo1248,foot,pɨta,,,rodrigues1985evidence
-form-280,waya1269,sole,pta,,,rodrigues1985evidence
-form-281,kuik1246,sole,uta-pɨ,,,rodrigues1985evidence
-form-282,tupi1273,earth,ɨβɨ,,,
-form-283,tupi1276,earth,ɨβɨ,,,mello2000ptg
-form-284,mund1330,earth,ipi,,,rodrigues1985evidence
-form-285,hixk1239,mountain,ɨhɨ,,,rodrigues1985evidence
-form-286,apal1257,mountain,ɨpɨ,,,rodrigues1985evidence
-form-287,baka1277,mountain,ɨwɨ,,,rodrigues1985evidence
-form-288,kuik1246,mountain,uu,,,rodrigues1985evidence
-form-289,waya1269,mountain,ɨpɨ,,,rodrigues1985evidence
-form-290,gali1262,mountain,wɨɨpɨ,,,rodrigues1985evidence
-form-291,cari1283,mountain,(w)ɨpɨ,,,gildea2007greenberg
-form-292,tupi1273,small,mirĩ,,,rodrigues1985evidence
-form-293,tupa1250,small,ʔiri,,,rodrigues1985evidence
-form-294,baka1277,small,i-meri,,,rodrigues1985evidence
-form-295,macu1259,small,miri-kɨ,,,rodrigues1985evidence
-form-296,tupi1276,small,mirĩ,,,mello2000ptg
-form-297,tupi1273,payment,epɨ,,,rodrigues1985evidence
-form-298,tupa1250,payment,epei,,,rodrigues1985evidence
-form-299,waiw1244,payment,eɸe,,,rodrigues1985evidence
-form-300,pemo1248,payment,epe-pɨ,,,rodrigues1985evidence
-form-301,hixk1239,payment,ehe-thɨrɨ,,,rodrigues1985evidence
-form-302,hixk1239,pay,ehe-ma,,,rodrigues1985evidence
-form-303,waya1269,pay,ehe-ma,,,rodrigues1985evidence
-form-304,baka1277,pay,epɨ-wa,,,rodrigues1985evidence
-form-305,cari1283,payment,epe,,,
-form-306,tupi1273,take; receive,(j)ar,,,rodrigues1985evidence
-form-307,tupa1250,take,at,,,rodrigues1985evidence
-form-308,mund1330,take,d͡ʒat,,,rodrigues1985evidence
-form-309,waiw1244,take,a-rɨ,,,rodrigues1985evidence
-form-310,hixk1239,take,a,,,rodrigues1985evidence
-form-311,pemo1248,take,a-lɨ,,,rodrigues1985evidence
-form-312,gali1262,take,a-ro,,,rodrigues1985evidence
-form-313,baka1277,take,a,,,rodrigues1985evidence
-form-314,cari1283,take,arə,,,
-form-315,tupi1273,go around; fence,man,,,rodrigues1985evidence
-form-316,tupa1250,roll up,ma-ʔto,,,rodrigues1985evidence
-form-317,waiw1244,dance,ma,,,rodrigues1985evidence
-form-318,hixk1239,dance,man-ho,,,rodrigues1985evidence
-form-319,hixk1239,fence,mam-ko,,,rodrigues1985evidence
-form-320,hixk1239,wall,mamu,,,rodrigues1985evidence
-form-321,pemo1248,dance,man-um,,,rodrigues1985evidence
-form-322,cari1283,dance,manumɨ,,,
-form-323,waiw1245,wall,mamu,,,
-form-324,tupa1250,give,om,,,rodrigues1985evidence
-form-325,mund1330,give,ɨ̃m,,,rodrigues1985evidence
-form-326,waiw1244,give,ɨm,,,rodrigues1985evidence
-form-327,hixk1239,give,ɨm,,,rodrigues1985evidence
-form-328,apal1257,give,um,,,rodrigues1985evidence
-form-329,baka1277,give,u,,,rodrigues1985evidence
-form-330,paru1239,give,ɨmɨ,,,
-form-331,cari1283,give,utu,,,rodrigues1985evidence
-form-332,tupi1273,end; die,paβ,,,rodrigues1985evidence
-form-333,tupa1250,end; die,pap,,,rodrigues1985evidence
-form-334,mund1330,die (many people),apam,,,rodrigues1985evidence
-form-335,hixk1239,die,wah,,,rodrigues1985evidence
-form-336,pemo1248,dead,paʔ-nese,,,rodrigues1985evidence
-form-337,paru1239,die,(a)wajiɸɨ,,,meiraDBcomp
-form-338,tupi1276,end,paβ,,,mello2000ptg
-form-339,mawe1252,die,pap,,,meiraetal2015summary
-form-340,tupi1273,wake,pak,,,rodrigues1985evidence
-form-341,tupa1250,wake,e-pak,,,rodrigues1985evidence
-form-342,waiw1244,wake,ɸaka,,,rodrigues1985evidence
-form-343,pemo1248,wake,paka-,,,rodrigues1985evidence
-form-344,hixk1239,wake,haka,,,rodrigues1985evidence
-form-345,cari1283,wake,paka,,,
-form-346,tupi1276,wake,pak,,,mello2000ptg
-form-347,tupi1273,jump,por,,,rodrigues1985evidence
-form-348,tupa1250,jump,pot-ʔeki,,,rodrigues1985evidence
-form-349,tupa1250,pluck,õ-pot,,,rodrigues1985evidence
-form-350,waiw1244,jump,ahro,,,rodrigues1985evidence
-form-351,pemo1248,jump,apurumɨ,,,swiggers2010gramatica
-form-352,enap1235,jump,ahpəmɨ,,,meiraDBpanare
-form-353,macu1259,jump,apɨrumɨ,,,meiraDBmacushi
-form-354,gali1262,jump,aporomɨ,,,courtz2008carib
-form-355,kaxu1237,jump,ahonɨmɨ,,,meiraDBkaxui
-form-356,maqu1238,jump,ahanɨmɨ,,,maquiritaricaceres2011
-form-357,ikpe1245,jump,alum,,,meiraDBikpeng
-form-358,cari1283,jump,apurumɨ,,,
-form-359,tupi1276,jump,por,,,mello2000ptg
-form-360,tupi1273,go,so,,,rodrigues1985evidence
-form-361,mund1330,go,t͡ʃɨ,,,rodrigues1985evidence
-form-362,sate1243,go,to,,,rodrigues1985evidence
-form-363,awet1244,go,to,,,rodrigues1985evidence
-form-364,waiw1244,go,to,,,rodrigues1985evidence
-form-365,hixk1239,go,to,,,rodrigues1985evidence
-form-366,baka1277,go,də,,,rodrigues1985evidence
-form-367,tupi1273,say; do,ʔe,,,rodrigues1985evidence
-form-368,tupa1250,say,ke,,,rodrigues1985evidence
-form-369,tupa1250,do,ka,,,rodrigues1985evidence
-form-370,mund1330,say,ʔe,,,rodrigues1985evidence
-form-371,waiw1244,say; do,ka,,,rodrigues1985evidence
-form-372,hixk1239,say; do,ka,,,rodrigues1985evidence
-form-373,pemo1248,say; do,ka,,,rodrigues1985evidence
-form-374,baka1277,say; speak,ke,,,rodrigues1985evidence
-form-375,cari1283,say,ka(ti),,,
-form-376,tupi1273,timbo vine,tiŋ,,,rodrigues1985evidence
-form-377,tupa1250,timbo vine,niŋ,,,rodrigues1985evidence
-form-378,hixk1239,poison fish,t͡ʃeme,,,rodrigues1985evidence
-form-379,pemo1248,poisonous vine,i-teg,,,rodrigues1985evidence
-form-380,gali1262,inebriate,e-tim-ui,,,rodrigues1985evidence
-form-381,macu1259,inebriate,tɨmɨ,,,rodrigues1985evidence[389];meiraDBmacushi
-form-382,trio1238,inebriate,tinje,,,rodrigues1985evidence
-form-383,waya1269,poison fish,tum,,,camargo2010wayana
-form-384,apal1257,poison; make drunk,tɨmɨ,,,meiraDBapalai
-form-385,enap1235,poison,tɨmə,,,meiraDBpanare
-form-386,waiw1244,poison,t͡ʃim,,,meiraDBwaiwai
-form-387,tupi1276,anteater,tamanuʔa,,,mello2000ptg[195]
-form-388,tupi1276,aunt,enɨr,,,mello2000ptg[161]
-form-389,tupi1276,"bark, skin",pe,,,mello2000ptg[186]
-form-390,tupi1276,bow,ɨβɨrapar,,,mello2000ptg[206]
-form-391,tupi1276,bromelia sp.,karawata,,,mello2000ptg[171]
-form-392,tupi1276,coatimundi bear,kʷati,,,mello2000ptg[176]
-form-393,tupi1276,face,oβa,,,mello2000ptg[183]
-form-394,tupi1276,feather,pepo,,,mello2000ptg
-form-395,tupi1276,grandfather,amõj,,,mello2000ptg[153]
-form-396,tupi1276,hut,tapɨj,,,mello2000ptg[196]
-form-397,tupi1276,ibis rubra,wara,,,mello2000ptg[204]
-form-398,tupi1276,jaguar,jawar,,,mello2000ptg[167]
-form-399,tupi1276,leaf,oβ,,,mello2000ptg[183]
-form-400,tupi1276,mycteria americana,tujuju,,,mello2000ptg[198]
-form-401,tupi1276,myletes fish,paku,,,mello2000ptg[185]
-form-402,tupi1276,nephew,peŋ,,,mello2000ptg[187]
-form-403,tupi1276,older sister,ɨker,,,birchall2019note
-form-404,tupi1276,ortalis bird,arakuã,,,mello2000ptg[156]
-form-405,tupi1276,parrot,parawa,,,mello2000ptg[186]
-form-406,tupi1276,parrot sp.,marakanã,,,mello2000ptg[177]
-form-407,tupi1276,passion flower,marakuja,,,mello2000ptg[177]
-form-408,tupi1276,pineapple,nanã,,,mello2000ptg[183]
-form-409,tupi1276,piranha,pirãj,,,mello2000ptg[188]
-form-410,tupi1276,prochilodus fish,kurimata,,,mello2000ptg[173]
-form-411,tupi1276,river,paranã,,,mello2000ptg[186]
-form-412,tupi1276,termite,kupiʔi,,,mello2000ptg[173]
-form-413,tupi1276,trunk,ɨpɨ,,,mello2000ptg[206]
-form-414,tupi1276,wasp,kaβ,,,mello2000ptg[170]
-form-415,tupi1276,wild cat,marakaja,,,mello2000ptg[177]
-form-416,tupi1276,younger brother,ɨβɨr,,,birchall2019note
-form-417,mawe1252,father,up,,,meiraetal2015summary
-form-418,sate1243,semen,sup,,,meiraetal2015summary
+form-272,hixk1239,leaf,arɨ,,,hixkaryanaderby1979
+form-273,tupi1273,heel,pɨta,,,rodrigues1985evidence
+form-274,tupa1250,foot,sito,,,rodrigues1985evidence
+form-275,cari1283,sole,pɨta,,,gildea2007greenberg
+form-276,tupi1276,heel,pɨta,,,mello2000ptg
+form-277,mund1330,heel,ida,,,rodrigues1985evidence
+form-278,hixk1239,sole,ɨhta,,,rodrigues1985evidence
+form-279,waiw1244,sole,hta,,,rodrigues1985evidence
+form-280,pemo1248,foot,pɨta,,,rodrigues1985evidence
+form-281,waya1269,sole,pta,,,rodrigues1985evidence
+form-282,kuik1246,sole,uta-pɨ,,,rodrigues1985evidence
+form-283,tupi1273,earth; ground,ɨβɨ,,,rodrigues1985evidence
+form-284,tupi1276,earth,ɨβɨ,,,mello2000ptg
+form-285,mund1330,earth,ipi,,,rodrigues1985evidence
+form-286,hixk1239,mountain,ɨhɨ,,,rodrigues1985evidence
+form-287,apal1257,mountain,ɨpɨ,,,rodrigues1985evidence
+form-288,baka1277,mountain,ɨwɨ,,,rodrigues1985evidence
+form-289,kuik1246,mountain,uu,,,rodrigues1985evidence
+form-290,waya1269,mountain,ɨpɨ,,,rodrigues1985evidence[383]; camargo2010wayana[43]
+form-291,gali1262,mountain,wɨɨpɨ,,,rodrigues1985evidence
+form-292,cari1283,mountain,(w)ɨpɨ,,,gildea2007greenberg
+form-293,tupi1273,small,mirĩ,,,rodrigues1985evidence
+form-294,tupa1250,small,ʔiri,,,rodrigues1985evidence
+form-295,baka1277,small,i-meri,,,rodrigues1985evidence
+form-296,macu1259,small,miri-kɨ,,,rodrigues1985evidence
+form-297,tupi1276,small,mirĩ,,,mello2000ptg
+form-298,tupi1273,payment,epɨ,,,rodrigues1985evidence
+form-299,tupa1250,payment,epei,,,rodrigues1985evidence
+form-300,waiw1244,payment,eɸe,,,rodrigues1985evidence
+form-301,pemo1248,payment,epe-pɨ,,,rodrigues1985evidence
+form-302,hixk1239,payment,ehe-thɨrɨ,,,rodrigues1985evidence
+form-303,hixk1239,pay,ehe-ma,,,rodrigues1985evidence
+form-304,waya1269,pay,ehe-ma,,,rodrigues1985evidence
+form-305,baka1277,pay,epɨ-wa,,,rodrigues1985evidence
+form-306,cari1283,payment,epe,,,
+form-307,tupi1273,take; receive,(j)ar,,,rodrigues1985evidence
+form-308,tupa1250,take,at,,,rodrigues1985evidence
+form-309,mund1330,take,d͡ʒat,,,rodrigues1985evidence
+form-310,waiw1244,take,a-rɨ,,,rodrigues1985evidence
+form-311,hixk1239,take,a,,,rodrigues1985evidence
+form-312,pemo1248,take,a-lɨ,,,rodrigues1985evidence
+form-313,gali1262,take,a-ro,,,rodrigues1985evidence
+form-314,baka1277,take,a,,,rodrigues1985evidence
+form-315,cari1283,take,arə,,,
+form-316,tupi1273,go around; fence,man,,,rodrigues1985evidence
+form-317,tupa1250,roll up,ma-ʔto,,,rodrigues1985evidence
+form-318,waiw1244,dance,ma,,,rodrigues1985evidence
+form-319,hixk1239,dance,man-ho,,,rodrigues1985evidence
+form-320,hixk1239,fence,mam-ko,,,rodrigues1985evidence
+form-321,hixk1239,wall,mamu,,,rodrigues1985evidence
+form-322,pemo1248,dance,man-um,,,rodrigues1985evidence
+form-323,cari1283,dance,manumɨ,,,
+form-324,waiw1245,wall,mamu,,,
+form-325,tupa1250,give,om,,,rodrigues1985evidence
+form-326,mund1330,give,ɨ̃m,,,rodrigues1985evidence
+form-327,waiw1244,give,ɨm,,,rodrigues1985evidence
+form-328,hixk1239,give,ɨm,,,rodrigues1985evidence
+form-329,apal1257,give,um,,,rodrigues1985evidence
+form-330,baka1277,give,u,,,rodrigues1985evidence
+form-331,paru1239,give,ɨmɨ,,,
+form-332,cari1283,give,utu,,,rodrigues1985evidence
+form-333,tupi1273,end; die,paβ,,,rodrigues1985evidence
+form-334,tupa1250,end; die,pap,,,rodrigues1985evidence
+form-335,mund1330,die (many people),apam,,,rodrigues1985evidence
+form-336,hixk1239,die,wah,,,rodrigues1985evidence
+form-337,pemo1248,dead,paʔ-nese,,,rodrigues1985evidence
+form-338,paru1239,die,(a)wajiɸɨ,,,meiraDBcomp
+form-339,tupi1276,end,paβ,,,mello2000ptg
+form-340,mawe1252,die,pap,,,meiraetal2015summary
+form-341,tupi1273,wake,pak,,,rodrigues1985evidence
+form-342,tupa1250,wake,e-pak,,,rodrigues1985evidence
+form-343,waiw1244,wake,ɸaka,,,rodrigues1985evidence
+form-344,pemo1248,wake,paka-,,,rodrigues1985evidence
+form-345,hixk1239,wake,haka,,,rodrigues1985evidence
+form-346,cari1283,wake,paka,,,
+form-347,tupi1276,wake,pak,,,mello2000ptg
+form-348,tupi1273,jump,por,,,rodrigues1985evidence
+form-349,tupa1250,jump,pot-ʔeki,,,rodrigues1985evidence
+form-350,tupa1250,pluck,õ-pot,,,rodrigues1985evidence
+form-351,waiw1244,jump,ahro,,,rodrigues1985evidence
+form-352,pemo1248,jump,apurumɨ,,,swiggers2010gramatica
+form-353,enap1235,jump,ahpəmɨ,,,meiraDBpanare
+form-354,macu1259,jump,apɨrumɨ,,,meiraDBmacushi
+form-355,gali1262,jump,aporomɨ,,,courtz2008carib
+form-356,kaxu1237,jump,ahonɨmɨ,,,meiraDBkaxui
+form-357,maqu1238,jump,ahanɨmɨ,,,maquiritaricaceres2011
+form-358,ikpe1245,jump,alum,,,meiraDBikpeng
+form-359,cari1283,jump,apurumɨ,,,
+form-360,tupi1276,jump,por,,,mello2000ptg
+form-361,tupi1273,go,so,,,rodrigues1985evidence
+form-362,mund1330,go,t͡ʃɨ,,,rodrigues1985evidence
+form-363,sate1243,go,to,,,rodrigues1985evidence
+form-364,awet1244,go,to,,,rodrigues1985evidence
+form-365,waiw1244,go,to,,,rodrigues1985evidence
+form-366,hixk1239,go,to,,,rodrigues1985evidence
+form-367,baka1277,go,də,,,rodrigues1985evidence
+form-368,tupi1273,say; do,ʔe,,,rodrigues1985evidence
+form-369,tupa1250,say,ke,,,rodrigues1985evidence
+form-370,tupa1250,do,ka,,,rodrigues1985evidence
+form-371,mund1330,say,ʔe,,,rodrigues1985evidence
+form-372,waiw1244,say; do,ka,,,rodrigues1985evidence
+form-373,hixk1239,say; do,ka,,,rodrigues1985evidence
+form-374,pemo1248,say; do,ka,,,rodrigues1985evidence
+form-375,baka1277,say; speak,ke,,,rodrigues1985evidence
+form-376,cari1283,say,ka(ti),,,
+form-377,tupi1273,timbo vine,tiŋ,,,rodrigues1985evidence
+form-378,tupa1250,timbo vine,niŋ,,,rodrigues1985evidence
+form-379,hixk1239,poison fish,t͡ʃeme,,,rodrigues1985evidence
+form-380,pemo1248,poisonous vine,i-teg,,,rodrigues1985evidence
+form-381,gali1262,inebriate,e-tim-ui,,,rodrigues1985evidence
+form-382,macu1259,inebriate,tɨmɨ,,,rodrigues1985evidence[389];meiraDBmacushi
+form-383,trio1238,inebriate,tinje,,,rodrigues1985evidence
+form-384,waya1269,poison fish,tum,,,camargo2010wayana
+form-385,apal1257,poison; make drunk,tɨmɨ,,,meiraDBapalai
+form-386,enap1235,poison,tɨmə,,,meiraDBpanare
+form-387,waiw1244,poison,t͡ʃim,,,meiraDBwaiwai
+form-388,tupi1276,anteater,tamanuʔa,,,mello2000ptg[195]
+form-389,tupi1276,aunt,enɨr,,,mello2000ptg[161]
+form-390,tupi1276,"bark, skin",pe,,,mello2000ptg[186]
+form-391,tupi1276,bow,ɨβɨrapar,,,mello2000ptg[206]
+form-392,tupi1276,bromelia sp.,karawata,,,mello2000ptg[171]
+form-393,tupi1276,coatimundi bear,kʷati,,,mello2000ptg[176]
+form-394,tupi1276,face,oβa,,,mello2000ptg[183]
+form-395,tupi1276,feather,pepo,,,mello2000ptg
+form-396,tupi1276,grandfather,amõj,,,mello2000ptg[153]
+form-397,tupi1276,hut,tapɨj,,,mello2000ptg[196]
+form-398,tupi1276,ibis rubra,wara,,,mello2000ptg[204]
+form-399,tupi1276,jaguar,jawar,,,mello2000ptg[167]
+form-400,tupi1276,leaf,oβ,,,mello2000ptg[183]
+form-401,tupi1276,mycteria americana,tujuju,,,mello2000ptg[198]
+form-402,tupi1276,myletes fish,paku,,,mello2000ptg[185]
+form-403,tupi1276,nephew,peŋ,,,mello2000ptg[187]
+form-404,tupi1276,older sister,ɨker,,,birchall2019note
+form-405,tupi1276,ortalis bird,arakuã,,,mello2000ptg[156]
+form-406,tupi1276,parrot,parawa,,,mello2000ptg[186]
+form-407,tupi1276,parrot sp.,marakanã,,,mello2000ptg[177]
+form-408,tupi1276,passion flower,marakuja,,,mello2000ptg[177]
+form-409,tupi1276,pineapple,nanã,,,mello2000ptg[183]
+form-410,tupi1276,piranha,pirãj,,,mello2000ptg[188]
+form-411,tupi1276,prochilodus fish,kurimata,,,mello2000ptg[173]
+form-412,tupi1276,river,paranã,,,mello2000ptg[186]
+form-413,tupi1276,termite,kupiʔi,,,mello2000ptg[173]
+form-414,tupi1276,trunk,ɨpɨ,,,mello2000ptg[206]
+form-415,tupi1276,wasp,kaβ,,,mello2000ptg[170]
+form-416,tupi1276,wild cat,marakaja,,,mello2000ptg[177]
+form-417,tupi1276,younger brother,ɨβɨr,,,birchall2019note
+form-418,mawe1252,father,up,,,meiraetal2015summary
+form-419,sate1243,semen,sup,,,meiraetal2015summary
