@@ -13,6 +13,9 @@ These data were augmented with additional cognate words from both families, as w
 In most cases, simply comparing the reconstructed Proto-Tupi-Guarani and Proto-Cariban forms suffices to show that the words are, in fact, not even cognate.
 Rather, the perceived similarity is mostly due to chance resemblance.
 
+There are a few cases where the similarity holds up even with more forms considered:
+Item [33, 'heel'](#33-heel).
+
 
 ### 21: 'father'
 
