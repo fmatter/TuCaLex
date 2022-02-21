@@ -34,7 +34,7 @@ PC ‘father’, tentatively reconstructed as _*jumɨ_.
 
 
 
-Tupian ‘father’. Incidentally, one of the forms with initial PT *Dj; lost in Tupari and reanalyzed in Aweti-Guarani. See [TuLaR](https://tular.clld.org/cognatesets/5755).
+Tupian ‘father’. Incidentally, one of the forms with initial PT *Dj; lost in Tupari and reanalyzed in Aweti-Guarani. See [TuLaR](https://tular.clld.org/cognatesets/5755): 5755.
 
 
 | Form | Language | - | - | - | 
@@ -108,7 +108,7 @@ Tupian ‘leaf’. Incidentally, one of the forms with initial PT *Dj.
 | _oβ_ | Tupinambá | o | β | 
 
 
-### 33: ''
+### 33: 'heel'
 
 # 
 
@@ -136,7 +136,7 @@ Tupian ‘heel’.
 | _pɨta_ | Proto-Tupi-Guarani | p | ɨ | t | a | 
 
 
-### 34: ''
+### 34: 'mountain, earth'
 
 # 
 
@@ -166,7 +166,7 @@ Tupian ‘earth’.
 | _ipi_ | Mundurukú | i | p | i | 
 
 
-### 46: ''
+### 46: 'small'
 
 # 
 
@@ -189,7 +189,7 @@ Tupian ‘small’.
 | _mirĩ_ | Proto-Tupi-Guarani | m | i | r | ĩ | 
 
 
-### 59: ''
+### 59: 'payment'
 
 # 
 
@@ -218,7 +218,7 @@ Tupinamba ‘payment’. No other cognates?
 | _epei_ | Tuparí | e | p | e | i | 
 
 
-### 72: ''
+### 72: 'take'
 
 # 
 
@@ -247,7 +247,7 @@ Tupian ‘to take’. Though no PTG has been reconstructed, the correspondence *
 | _d͡ʒat_ | Mundurukú | d͡ʒ | a | t | 
 
 
-### 88: ''
+### 88: 'to encircle (?)'
 
 # 
 
@@ -274,7 +274,7 @@ Cariban ‘wall’. Only attested in Waiwaian.
 | _mamu_ | Proto-Waiwaian | m | a | m | u | 
 
 
-### 90: ''
+### 90: 'to give'
 
 # 
 
@@ -309,7 +309,7 @@ Tupian ‘to give’. Not attested in MAG, but Munduruku
 | _ɨ̃m_ | Mundurukú | ɨ̃ | m | 
 
 
-### 91: ''
+### 91: 'die, end'
 
 # 
 
@@ -335,7 +335,7 @@ Tupian ‘to end’.
 | _pap_ | Proto-Maweti-Guarani | p | a | p | 
 
 
-### 93: ''
+### 93: 'to wake up'
 
 # 
 
@@ -362,7 +362,7 @@ Tupian ‘to wake’. Shared segments are pak, subgroup III (nhe, kok-oma) have 
 | _pak_ | Proto-Tupi-Guarani | p | a | k | 
 
 
-### 96: ''
+### 96: 'to jump'
 
 # 
 
@@ -395,7 +395,7 @@ Tupian ‘to jump’.
 | _por_ | Proto-Tupi-Guarani | p | o | r | 
 
 
-### 100: ''
+### 100: 'to go'
 
 # 
 
@@ -422,7 +422,7 @@ Tupian ‘to go’.
 | _to_ | Awetí | t | o | 
 
 
-### 108: ''
+### 108: 'to say, do'
 
 # 
 
@@ -460,7 +460,7 @@ Tupari and Mekens ‘to say’. Not cognate with t-say-1 according to TuLaR.
 | _ka_ | Tuparí | k | a | 
 
 
-### 119: ''
+### 119: 'poison'
 
 # 
 
