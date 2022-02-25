@@ -229,6 +229,7 @@ PC ‘son’.
 | _mɨre_ | Proto-Parukotoan | m | ɨ | r | e | 
 | _mure_ | Pará Arára | m | u | r | e | 
 | _mure_ | Ikpeng | m | u | r | e | 
+| _tɨ-me-rɨ_ | Bakairí | m | e | - | - | 
 
 
 # 
