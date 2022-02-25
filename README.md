@@ -62,6 +62,18 @@ Tupian ‘father’. Incidentally, one of the forms with initial PT *Dj; lost in
 
 
 ### 25: 'fat'
+
+1. Galibi Carib _ka-tɨ_ ‘fat’
+1. Hixkaryána _ka-tɨ_ ‘fat’
+1. Mundurukú _ʃep_ ‘fat’
+1. Tuparí _ʔap_ ‘fat’
+1. Tupinambá _kaβ_ ‘fat’
+1. Waiwai _ka_ ‘fat’
+1. Wayana _ka-t_ ‘fat’
+1. Wayana _kap-hak_ ‘fat’
+
+
+
 Wayana _kap-hak_ ‘fat’ is _kaphak_ in [de Goeje 1946](#source-degoeje1946wayana); the segmentation was perhaps done to create the appearance of a TG-like form _kap_. The actual segmentation is _ka-phak_ ([Tavares 2005](#source-wayanatavares2005)).
 
 
