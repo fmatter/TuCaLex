@@ -7,4 +7,4 @@
 {% set forms = forms.append(form_string)%}
 {% endif %}
 {% endfor %}
-{{ ", ".join(forms) }}
+{{ ", ".join(forms) }}.
