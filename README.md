@@ -222,9 +222,13 @@ Cited Macushi _miri-kɨ_ ‘small’ has a full form *simɨrikɨ*, cognate with 
 PC ‘son’.
 
 
-| Form | Language | - | - | 
-| :-- | :-- |  :-- |  :-- | 
-| _i-meri_ | Bakairí | m | e | 
+| Form | Language | - | - | - | - | 
+| :-- | :-- |  :-- |  :-- |  :-- |  :-- | 
+| _i-meri_ | Bakairí | m | e | - | - | 
+| _mure_ | Proto-Taranoan | m | u | r | e | 
+| _mɨre_ | Proto-Parukotoan | m | ɨ | r | e | 
+| _mure_ | Pará Arára | m | u | r | e | 
+| _mure_ | Ikpeng | m | u | r | e | 
 
 
 # 
