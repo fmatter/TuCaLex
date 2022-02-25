@@ -13,7 +13,7 @@
         {
             "rdf:about": "git@github.com:fmatter/TuCaLex",
             "rdf:type": "prov:Entity",
-            "dc:created": "8b306e5",
+            "dc:created": "fa3629f",
             "dc:title": "Repository"
         },
         {
@@ -41,7 +41,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 451,
+            "dc:extent": 452,
             "tableSchema": {
                 "columns": [
                     {
