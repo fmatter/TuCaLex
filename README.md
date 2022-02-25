@@ -121,7 +121,7 @@ Tupian ‘leaf’. Incidentally, one of the forms with initial PT *Dj.
 
 ### 33: 'heel'
 
-Tupinambá _pɨta_, Tuparí _sito_, Mundurukú _ida_, Hixkaryána _ɨhta_, Waiwai _hta_, Pemon _pɨta_, Wayana _pta_, Wayana _pta-pu_, Kuikúro-Kalapálo _uta-pɨ_.
+Tupinambá _pɨta_, Tuparí _sito_, Mundurukú _ida_, Hixkaryána _ɨhta_, Hixkaryána _ɨhta-kmarunu_, Waiwai _hta_, Pemon _pɨta_, Wayana _pta_, Wayana _pta-pu_, Kuikúro-Kalapálo _uta-pɨ_.
 
 It is not clear if the Mundurukú and Akuntsu forms are indeed cognate.
 However, there is a distinct possibility that Proto-Tupi-Guarani _pɨta_ ‘heel’ is etymologically complex, as the apparent sound correspondences reoccur in 'foot'.
@@ -136,6 +136,7 @@ Cariban ‘heel’.
 | :-- | :-- |  :-- |  :-- |  :-- |  :-- | 
 | _pɨta_ | Proto-Cariban | p | ɨ | t | a | 
 | _ɨhta_ | Hixkaryána | h | - | t | a | 
+| _ɨhta-kmarunu_ | Hixkaryána | h | - | t | a | 
 | _hta_ | Waiwai | h | - | t | a | 
 | _pɨta_ | Pemon | p | ɨ | t | a | 
 | _pta_ | Wayana | p | - | t | a | 
