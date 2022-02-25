@@ -234,6 +234,18 @@ PC ‘son’.
 
 # 
 
+Pemongan ‘small’.
+
+
+| Form | Language | - | - | - | - | - | - | - | - | - | - | 
+| :-- | :-- |  :-- |  :-- |  :-- |  :-- |  :-- |  :-- |  :-- |  :-- |  :-- |  :-- | 
+| _miri-kɨ_ | Macushi | - | - | - | m | i | r | i | - | k | ɨ | 
+| _siʔmirikɨ_ | Macushi | s | i | ʔ | m | i | r | i | - | k | ɨ | 
+| _siʔrəʔkə_ | Pemon | s | i | ʔ | - | - | r | ə | ʔ | k | ə | 
+
+
+# 
+
 Tupian ‘small’.
 
 
