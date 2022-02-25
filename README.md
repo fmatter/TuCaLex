@@ -20,6 +20,17 @@ There are two cases where the similarity does not disappear when more forms are 
 
 ### 21: 'father'
 
+1. Apalaí _um_ ‘father’
+1. Bakairí _ũe_ ‘father’
+1. Proto-Cariban _jumɨ_ ‘father’
+1. Galibi Carib _umu_ ‘father’
+1. Hixkaryána _ɨm_ ‘father’
+1. Pemon _uŋ_ ‘father’
+1. Tupinambá _uβ_ ‘father’
+1. Waiwai _ɨm_ ‘father’
+1. Tuparí _op_ ‘father’
+
+
 
 
 PC ‘father’, tentatively reconstructed as _*jumɨ_.
@@ -282,7 +293,7 @@ Tupian ‘to take’. Though no PTG form has been reconstructed, the corresponde
 
 
 ### 88: 'to encircle (?)'
-No cognates found for either Tupinambá _man_ ‘go around; fence’ or Tuparí _ma-ʔto_ ‘roll up’; Cariban forms are two distinct cognate sets:
+No cognates found for either Tupinambá _man_ ‘to encircle (?)’ or Tuparí _ma-ʔto_ ‘to encircle (?)’; Cariban forms are two distinct cognate sets:
 
 # 
 
@@ -504,7 +515,7 @@ Tupari and Mekens ‘to say’. Not cognate with t-say-1 according to [TuLaR](ht
 
 ### 119: 'poison'
 While the Tupinambá form does not readily fit into a cognate set, 1) the usual TG form is _timbo_ ([TuLaR](https://tular.clld.org/cognatesets/17181)), 2) the Cariban forms are verbs, not nouns.
-The etymology of Pemon _i-teg_ ‘poisonous vine’ is unknown.
+The etymology of Pemon _i-teg_ ‘(to) poison’ is unknown.
 
 # 
 
@@ -533,4 +544,3 @@ Tupian ‘timbó’.
 | _tiŋ_ | Tupinambá | t | i | - | ŋ | 
 | _niŋ_ | Tuparí | n | i | - | ŋ | 
 | _*tĩ(ĩ)k_ | Tuparic | t | ĩ | ĩ | k | 
-
