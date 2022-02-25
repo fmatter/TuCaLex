@@ -20,15 +20,7 @@ There are two cases where the similarity does not disappear when more forms are 
 
 ### 21: 'father'
 
-* Apalaí _um_ ‘father’
-* Bakairí _ũe_ ‘father’
-* Galibi Carib _umu_ ‘father’
-* Hixkaryána _ɨm_ ‘father’
-* Pemon _uŋ_ ‘father’
-* Tupinambá _uβ_ ‘father’
-* Waiwai _ɨm_ ‘father’
-* Tuparí _op_ ‘father’
-
+Apalaí _um_, Bakairí _ũe_, Galibi Carib _umu_, Hixkaryána _ɨm_, Pemon _uŋ_, Tupinambá _uβ_, Waiwai _ɨm_, Tuparí _op_
 
 
 
@@ -62,16 +54,7 @@ Tupian ‘father’. Incidentally, one of the forms with initial PT *Dj; lost in
 
 ### 25: 'fat'
 
-* Galibi Carib _ka-tɨ_ ‘fat’
-* Hixkaryána _ka-tɨ_ ‘fat’
-* Mundurukú _ʃep_ ‘fat’
-* Tuparí _ʔap_ ‘fat’
-* Tupinambá _kaβ_ ‘fat’
-* Waiwai _ka_ ‘fat’
-* Wayana _ka-t_ ‘fat’
-* Wayana _kap-hak_ ‘fat’
-
-
+Galibi Carib _ka-tɨ_, Hixkaryána _ka-tɨ_, Mundurukú _ʃep_, Tuparí _ʔap_, Tupinambá _kaβ_, Waiwai _ka_, Wayana _ka-t_, Wayana _kap-hak_
 
 Wayana _kap-hak_ ‘fat’ is _kaphak_ in [de Goeje 1946](#source-degoeje1946wayana); the segmentation was perhaps done to create the appearance of a TG-like form _kap_. The actual segmentation is _ka-phak_ ([Tavares 2005](#source-wayanatavares2005)).
 
@@ -103,9 +86,9 @@ Tupian ‘fat’. It is not clear if all forms are cognate.
 | _kap_ | Proto-Tupi-Guarani | k | a | p | 
 
 
-
 ### 26: 'leaf'
-Rodrigues only lists Cariban words of the form _a_.
+
+Bakairí _a_, Hixkaryána _a_, Mundurukú _ɨp_, Tuparí _ep_, Tupinambá _oβ_, Waiwai _a_
 
 
 
@@ -137,6 +120,9 @@ Tupian ‘leaf’. Incidentally, one of the forms with initial PT *Dj.
 
 
 ### 33: 'heel'
+
+Tupinambá _pɨta_, Tuparí _sito_, Mundurukú _ida_, Hixkaryána _ɨhta_, Waiwai _hta_, Pemon _pɨta_, Wayana _pta_, Kuikúro-Kalapálo _uta-pɨ_
+
 It is not clear if the Mundurukú and Akuntsu forms are indeed cognate.
 However, there is a distinct possibility that Proto-Tupi-Guarani _pɨta_ ‘heel’ is etymologically complex, as the apparent sound correspondences reoccur in 'foot'.
 This suggests that Proto-Tupi-Guarani _pɨta_ ‘heel’ can be divided into _pɨ+ta_; other languages have different constellations, like Tuparí _sito_ 'foot', _siata_ 'heel' ([Alves 2004](#source-alves2004tupari)) or Suruí _piipe_ ‘foot’, Suruí _pinia_ ‘heel’ ([Bontkes 1978](#source-bontkes1978surui)).
@@ -191,6 +177,8 @@ Tupian ‘foot’.
 
 ### 34: 'mountain, earth'
 
+Tupinambá _ɨβɨ_, Mundurukú _ipi_, Hixkaryána _ɨhɨ_, Apalaí _ɨpɨ_, Bakairí _ɨwɨ_, Kuikúro-Kalapálo _uu_, Wayana _ɨpɨ_, Galibi Carib _wɨɨpɨ_
+
 # 
 
 PC ‘mountain’.
@@ -221,6 +209,8 @@ Tupian ‘earth’.
 
 ### 46: 'small'
 
+Tupinambá _mirĩ_, Tuparí _ʔiri_, Bakairí _i-meri_, Macushi _miri-kɨ_
+
 The Bakairí form actually comes from 'son'.
 Cited Macushi _miri-kɨ_ ‘small’ has a full form *simɨrikɨ*, cognate with Pemon *siʔrəʔkə*.
 
@@ -246,6 +236,8 @@ Tupian ‘small’.
 
 
 ### 59: 'payment'
+
+Tupinambá _epɨ_, Tuparí _epei_, Waiwai _eɸe_, Pemon _epe-pɨ_, Hixkaryána _ehe-thɨrɨ_, Hixkaryána _ehe-ma_, Wayana _ehe-ma_, Bakairí _epɨ-wa_
 
 # 
 
@@ -275,6 +267,8 @@ Tupinamba ‘payment’. No other cognates?
 
 
 ### 72: 'take'
+
+Tupinambá _(j)ar_, Tuparí _at_, Mundurukú _d͡ʒat_, Waiwai _a-rɨ_, Hixkaryána _a_, Pemon _a-lɨ_, Galibi Carib _a-ro_, Bakairí _a_
 
 # 
 
@@ -332,6 +326,9 @@ Cariban ‘wall’. Only attested in Waiwaian.
 
 
 ### 90: 'to give'
+
+Tuparí _om_, Mundurukú _ɨ̃m_, Waiwai _ɨm_, Hixkaryána _ɨm_, Apalaí _um_, Bakairí _u_, Proto-Cariban _utu_
+
 Two distinct Cariban cognate sets; only the Waiwaian one looks potentially cognate.
 
 # 
@@ -369,6 +366,8 @@ Tupian ‘to give’. Not attested in MAG, but Munduruku
 
 ### 91: 'die, end'
 
+Tupinambá _paβ_, Tuparí _pap_, Mundurukú _apam_, Hixkaryána _wah_, Pemon _paʔ-nese_
+
 # 
 
 
@@ -397,6 +396,9 @@ Tupian ‘to end’.
 
 
 ### 93: 'to wake up'
+
+Tupinambá _pak_, Tuparí _e-pak_, Waiwai _ɸaka_, Pemon _paka-_, Hixkaryána _haka_
+
 Only languages of the TG Subgroup III (Nhengatu etc.) have _pak**a**_; influence from Cariban?
 
 # 
@@ -425,6 +427,8 @@ Tupian ‘to wake’.
 
 
 ### 96: 'to jump'
+
+Tupinambá _por_, Tuparí _pot-ʔeki_, Tuparí _õ-pot_, Waiwai _ahro_, Pemon _apurumɨ_
 
 # 
 
@@ -459,6 +463,8 @@ Tupian ‘to jump’.
 
 ### 100: 'to go'
 
+Tupinambá _so_, Mundurukú _t͡ʃɨ_, Sateré-Mawé _to_, Awetí _to_, Waiwai _to_, Hixkaryána _to_, Bakairí _də_
+
 # 
 
 Cariban ‘to go’.
@@ -487,6 +493,8 @@ Tupian ‘to go’.
 
 
 ### 108: 'to say, do'
+
+Tupinambá _ʔe_, Tuparí _ke_, Tuparí _ka_, Mundurukú _ʔe_, Waiwai _ka_, Hixkaryána _ka_, Pemon _ka_, Bakairí _ke_
 
 # 
 
@@ -525,6 +533,9 @@ Tupari and Mekens ‘to say’. Not cognate with t-say-1 according to [TuLaR](ht
 
 
 ### 119: 'poison'
+
+Tupinambá _tiŋ_, Tuparí _niŋ_, Hixkaryána _t͡ʃeme_, Pemon _i-teg_, Galibi Carib _e-tim-ui_, Macushi _tɨmɨ_, Trió _tinje_
+
 While the Tupinambá form does not readily fit into a cognate set, 1) the usual TG form is _timbo_ ([TuLaR](https://tular.clld.org/cognatesets/17181)), 2) the Cariban forms are verbs, not nouns.
 The etymology of Pemon _i-teg_ ‘(to) poison’ is unknown.
 
@@ -555,3 +566,5 @@ Tupian ‘timbó’.
 | _tiŋ_ | Tupinambá | t | i | - | ŋ | 
 | _niŋ_ | Tuparí | n | i | - | ŋ | 
 | _*tĩ(ĩ)k_ | Tuparic | t | ĩ | ĩ | k | 
+
+
