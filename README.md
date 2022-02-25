@@ -132,15 +132,15 @@ This suggests that Proto-Tupi-Guarani _pɨta_ ‘heel’ can be divided into _p�
 Cariban ‘heel’.
 
 
-| Form | Language | - | - | - | - | - | 
-| :-- | :-- |  :-- |  :-- |  :-- |  :-- |  :-- | 
-| _pɨta_ | Proto-Cariban | p | ɨ | - | t | a | 
-| _ɨhta_ | Hixkaryána | - | ɨ | h | t | a | 
-| _hta_ | Waiwai | - | - | h | t | a | 
-| _pɨta_ | Pemon | p | ɨ | - | t | a | 
-| _pta_ | Wayana | p | - | - | t | a | 
-| _pta-pu_ | Wayana | p | - | - | t | a | 
-| _uta-pɨ_ | Kuikúro-Kalapálo | - | - | - | t | a | 
+| Form | Language | - | - | - | - | 
+| :-- | :-- |  :-- |  :-- |  :-- |  :-- | 
+| _pɨta_ | Proto-Cariban | p | ɨ | t | a | 
+| _ɨhta_ | Hixkaryána | h | - | t | a | 
+| _hta_ | Waiwai | h | - | t | a | 
+| _pɨta_ | Pemon | p | ɨ | t | a | 
+| _pta_ | Wayana | p | - | t | a | 
+| _pta-pu_ | Wayana | p | - | t | a | 
+| _uta-pɨ_ | Kuikúro-Kalapálo | - | - | t | a | 
 
 
 # 
