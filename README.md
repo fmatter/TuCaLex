@@ -179,7 +179,7 @@ Tupian ‘foot’.
 
 ### 34: 'mountain, earth'
 
-Tupinambá _ɨβɨ_, Tupinambá _ɨβɨ-tɨr_, Mundurukú _ipi_, Hixkaryána _ɨhɨ_, Apalaí _ɨpɨ_, Bakairí _ɨwɨ_, Kuikúro-Kalapálo _uu_, Wayana _ɨpɨ_, Galibi Carib _wɨɨpɨ_.
+Tupinambá _ɨβɨ_, Tupinambá _ɨβɨ-tɨr_, Mundurukú _ipi_, Hixkaryána _ɨhɨ_, Apalaí _ɨpɨ_, Bakairí _ɨwɨ_, Kuikúro-Kalapálo _uu_, Wayana _ɨpɨ_, Galibi Carib _wɨɨpɨ_, Island Carib _wébo_.
 
 # 
 
@@ -195,7 +195,6 @@ PC ‘mountain’.
 | _ɨpɨ_ | Wayana | - | ɨ | p | ɨ | 
 | _wɨɨpɨ_ | Galibi Carib | w | ɨɨ | p | ɨ | 
 | _(w)ɨpɨ_ | Proto-Cariban | w | ɨ | p | ɨ | 
-| _wébo_ | Island Carib | w | � | b | o | 
 
 
 # 
@@ -213,7 +212,7 @@ Tupian ‘earth’.
 
 ### 46: 'small'
 
-Island Carib _wébo_, Tupinambá _mirĩ_, Tuparí _ʔiri_, Bakairí _i-meri_, Macushi _miri-kɨ_.
+Tupinambá _mirĩ_, Tuparí _ʔiri_, Bakairí _i-meri_, Macushi _miri-kɨ_.
 
 The Bakairí form actually comes from 'son'.
 Cited Macushi _miri-kɨ_ ‘small’ has a full form *simɨrikɨ*, cognate with Pemon *siʔrəʔkə*.
