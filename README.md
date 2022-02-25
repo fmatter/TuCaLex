@@ -20,15 +20,14 @@ There are two cases where the similarity does not disappear when more forms are 
 
 ### 21: 'father'
 
-1. Apalaí _um_ ‘father’
-1. Bakairí _ũe_ ‘father’
-1. Proto-Cariban _jumɨ_ ‘father’
-1. Galibi Carib _umu_ ‘father’
-1. Hixkaryána _ɨm_ ‘father’
-1. Pemon _uŋ_ ‘father’
-1. Tupinambá _uβ_ ‘father’
-1. Waiwai _ɨm_ ‘father’
-1. Tuparí _op_ ‘father’
+* Apalaí _um_ ‘father’
+* Bakairí _ũe_ ‘father’
+* Galibi Carib _umu_ ‘father’
+* Hixkaryána _ɨm_ ‘father’
+* Pemon _uŋ_ ‘father’
+* Tupinambá _uβ_ ‘father’
+* Waiwai _ɨm_ ‘father’
+* Tuparí _op_ ‘father’
 
 
 
@@ -63,14 +62,14 @@ Tupian ‘father’. Incidentally, one of the forms with initial PT *Dj; lost in
 
 ### 25: 'fat'
 
-1. Galibi Carib _ka-tɨ_ ‘fat’
-1. Hixkaryána _ka-tɨ_ ‘fat’
-1. Mundurukú _ʃep_ ‘fat’
-1. Tuparí _ʔap_ ‘fat’
-1. Tupinambá _kaβ_ ‘fat’
-1. Waiwai _ka_ ‘fat’
-1. Wayana _ka-t_ ‘fat’
-1. Wayana _kap-hak_ ‘fat’
+* Galibi Carib _ka-tɨ_ ‘fat’
+* Hixkaryána _ka-tɨ_ ‘fat’
+* Mundurukú _ʃep_ ‘fat’
+* Tuparí _ʔap_ ‘fat’
+* Tupinambá _kaβ_ ‘fat’
+* Waiwai _ka_ ‘fat’
+* Wayana _ka-t_ ‘fat’
+* Wayana _kap-hak_ ‘fat’
 
 
 
