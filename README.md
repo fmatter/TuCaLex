@@ -129,7 +129,7 @@ This suggests that Proto-Tupi-Guarani _pɨta_ ‘heel’ can be divided into _p�
 
 # 
 
-Cariban ‘heel’.
+PC _*pɨta_ ‘heel’.
 
 
 | Form | Language | - | - | - | - | 
@@ -183,7 +183,7 @@ Tupinambá _ɨβɨ_, Tupinambá _ɨβɨ-tɨr_, Mundurukú _ipi_, Hixkaryána _ɨ
 
 # 
 
-PC ‘mountain’.
+PC _*(w)ɨpɨ_ ‘mountain’.
 
 
 | Form | Language | - | - | - | - | 
@@ -260,7 +260,7 @@ Tupinambá _epɨ_, Tuparí _epei_, Waiwai _eɸe_, Pemon _epe-pɨ_, Hixkaryána _
 
 # 
 
-PC ‘payment’.
+PC _*epe_ ‘payment’.
 
 
 | Form | Language | - | - | - | 
@@ -277,7 +277,7 @@ PC ‘payment’.
 
 # 
 
-Tupinamba ‘payment’. No other cognates?
+Tupinamba and Tuparí ‘payment’. No other cognates found.
 
 
 | Form | Language | - | - | - | - | 
@@ -292,7 +292,7 @@ Tupinambá _(j)ar_, Tuparí _at_, Mundurukú _d͡ʒat_, Waiwai _a-rɨ_, Hixkary�
 
 # 
 
-PC ‘take’
+PC _*arə_ ‘take’
 
 
 | Form | Language | - | - | - | 
@@ -307,7 +307,7 @@ PC ‘take’
 
 # 
 
-Tupian ‘to take’. Though no PTG form has been reconstructed, the correspondence \*r:t exists elsewhere (and syllable-final \*r is in fact reconstructed as \*t by Meira & Drude). Maybe *_jat_?
+Tupian ‘to take’. Though no PTG form has been reconstructed, syllable-final PTG \*r is instead reconstructed as \*t by Meira & Drude. Maybe *_jat_?
 
 
 | Form | Language | - | - | - | 
@@ -318,19 +318,25 @@ Tupian ‘to take’. Though no PTG form has been reconstructed, the corresponde
 
 
 ### 88: 'to encircle (?)'
-No cognates found for either Tupinambá _man_ ‘to encircle (?)’ or Tuparí _ma-ʔto_ ‘to encircle (?)’; Cariban forms are two distinct cognate sets:
+
+Tupinambá _man_, Tuparí _ma-_, Waiwai _ma_, Hixkaryána _man-ho_, Hixkaryána _mam-ko_, Hixkaryána _mamu_, Pemon _man-um_.
+
+No cognates found for the Tupian forms.
+Cariban forms are actually two distinct cognate sets:
 
 # 
 
 PC ‘to dance’ (one of three).
 
 
-| Form | Language | - | - | - | - | - | - | 
-| :-- | :-- |  :-- |  :-- |  :-- |  :-- |  :-- |  :-- | 
-| _ma_ | Waiwai | m | a | - | - | - | - | 
-| _man-ho_ | Hixkaryána | m | a | n | - | - | - | 
-| _man-um_ | Pemon | m | a | n | u | m | - | 
-| _manumɨ_ | Proto-Cariban | m | a | n | u | m | ɨ | 
+| Form | Language | - | - | - | - | - | - | - | - | 
+| :-- | :-- |  :-- |  :-- |  :-- |  :-- |  :-- |  :-- |  :-- |  :-- | 
+| _ma_ | Waiwai | m | a | - | - | - | - | - | - | 
+| _man-ho_ | Hixkaryána | m | a | n | - | - | - | - | - | 
+| _man-um_ | Pemon | m | a | n | - | - | u | m | - | 
+| _manumɨ_ | Proto-Cariban | m | a | n | - | - | u | m | ɨ | 
+| _manɨm_ | Waiwai | m | a | n | - | - | ɨ | m | - | 
+| _manunumɨ_ | Macushi | m | a | n | u | n | u | m | ɨ | 
 
 
 # 
@@ -347,13 +353,14 @@ Cariban ‘wall’. Only attested in Waiwaian.
 
 ### 90: 'to give'
 
-Tuparí _om_, Mundurukú _ɨ̃m_, Waiwai _ɨm_, Hixkaryána _ɨm_, Apalaí _um_, Bakairí _u_, Proto-Cariban _utu_.
+Tuparí _om_, Mundurukú _ɨ̃m_, Waiwai _ɨm_, Hixkaryána _ɨm_, Apalaí _um_, Bakairí _u_.
 
-Two distinct Cariban cognate sets; only the Waiwaian one looks potentially cognate.
+The Cariban forms belong to two distinct cognate sets.
+Only the Parukotoan one looks potentially cognate to the Tupian forms.
 
 # 
 
-PC ‘to give’.
+PC _*utu_ ‘to give’.
 
 
 | Form | Language | - | - | - | 
@@ -371,22 +378,27 @@ Parukotoan ‘to give’. A *t-adding verb.
 | _ɨm_ | Waiwai | ɨ | m | - | 
 | _ɨm_ | Hixkaryána | ɨ | m | - | 
 | _ɨmɨ_ | Proto-Parukotoan | ɨ | m | ɨ | 
+| _mɨ_ | Kaxuiâna | - | m | ɨ | 
 
 
 # 
 
-Tupian ‘to give’. Not attested in MAG, but Munduruku
+Tupian ‘to give’. Not attested in MAG, but Munduruku. No other cognates found.
 
 
 | Form | Language | - | - | 
 | :-- | :-- |  :-- |  :-- | 
 | _om_ | Tuparí | o | m | 
 | _ɨ̃m_ | Mundurukú | ɨ̃ | m | 
+| _õm_ | Kuruáya | õ | m | 
+| _om_ | Arikem | o | m | 
 
 
 ### 91: 'die, end'
 
 Tupinambá _paβ_, Tuparí _pap_, Mundurukú _apam_, Hixkaryána _wah_, Pemon _paʔ-nese_.
+
+Pemon _paʔ-nese_ ‘to die, end’ is clearly a participle (_paʔne-se_), but I have found no other attestations of _paʔne_.
 
 # 
 
@@ -411,15 +423,15 @@ Tupian ‘to end’.
 | :-- | :-- |  :-- |  :-- |  :-- | 
 | _paβ_ | Tupinambá | p | a | β | 
 | _pap_ | Tuparí | p | a | p | 
-| _paβ_ | Proto-Tupi-Guarani | p | a | β | 
+| _pap_ | Proto-Tupi-Guarani | p | a | p | 
 | _pap_ | Proto-Maweti-Guarani | p | a | p | 
 
 
 ### 93: 'to wake up'
 
-Tupinambá _pak_, Tuparí _e-pak_, Waiwai _ɸaka_, Pemon _paka-_, Hixkaryána _haka_.
+Tupinambá _pak_, Tupinambá _mo-pak_, Tuparí _e-pak_, Waiwai _ɸaka_, Pemon _paka-_, Hixkaryána _haka_, Hixkaryána _om-paka_.
 
-Only languages of the TG Subgroup III (Nhengatu etc.) have _pak**a**_; influence from Cariban?
+Only languages of the TG Subgroup III (Nhengatu etc.) have _pak**a**_; potential influence from Cariban?
 
 # 
 
@@ -431,6 +443,7 @@ PC ‘to wake’.
 | _ɸaka_ | Waiwai | ɸ | a | k | a | 
 | _paka-_ | Pemon | p | a | k | a | 
 | _haka_ | Hixkaryána | h | a | k | a | 
+| _om-paka_ | Hixkaryána | p | a | k | a | 
 | _paka_ | Proto-Cariban | p | a | k | a | 
 
 
@@ -439,20 +452,24 @@ PC ‘to wake’.
 Tupian ‘to wake’.
 
 
-| Form | Language | - | - | - | 
-| :-- | :-- |  :-- |  :-- |  :-- | 
-| _pak_ | Tupinambá | p | a | k | 
-| _e-pak_ | Tuparí | p | a | k | 
-| _pak_ | Proto-Tupi-Guarani | p | a | k | 
+| Form | Language | - | - | - | - | 
+| :-- | :-- |  :-- |  :-- |  :-- |  :-- | 
+| _pak_ | Tupinambá | p | a | k | - | 
+| _mo-pak_ | Tupinambá | p | a | k | - | 
+| _e-pak_ | Tuparí | p | a | k | - | 
+| _pak_ | Proto-Tupi-Guarani | p | a | k | - | 
+| _paku_ | Jurúna | p | a | k | u | 
 
 
 ### 96: 'to jump'
 
 Tupinambá _por_, Tuparí _pot-ʔeki_, Tuparí _õ-pot_, Waiwai _ahro_, Pemon _apurumɨ_.
 
+Superficial similarity to Cariban forms due to PTG \*_t_ > _r_.
+
 # 
 
-Cariban ‘to jump’.
+PC _*apurumɨ_ ‘to jump’.
 
 
 | Form | Language | - | - | - | - | - | - | - | 
@@ -478,7 +495,7 @@ Tupian ‘to jump’.
 | _por_ | Tupinambá | p | o | r | 
 | _pot-ʔeki_ | Tuparí | p | o | t | 
 | _õ-pot_ | Tuparí | p | o | t | 
-| _por_ | Proto-Tupi-Guarani | p | o | r | 
+| _pot_ | Proto-Tupi-Guarani | p | o | t | 
 
 
 ### 100: 'to go'
@@ -496,6 +513,8 @@ Cariban ‘to go’.
 | _to_ | Hixkaryána | - | t | - | - | o | 
 | _də_ | Bakairí | - | d | - | - | ə | 
 | _ɨtəmə_ | Proto-Cariban | ɨ | t | ə | m | ə | 
+| _ɨtəmə_ | Ye'kwana | ɨ | t | ə | m | ə | 
+| _[e]to[m]_ | Waiwai | e | t | o | m | - | 
 
 
 # 
