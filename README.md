@@ -214,8 +214,7 @@ Tupian ‘earth’.
 
 Tupinambá _mirĩ_, Tuparí _ʔiri_, Bakairí _i-meri_, Macushi _miri-kɨ_.
 
-The Bakairí form actually comes from 'son'.
-Cited Macushi _miri-kɨ_ ‘small’ has a full form *simɨrikɨ*, cognate with Pemon *siʔrəʔkə*.
+Two distinct cognate sets, with the Bakairí form actually coming from 'son'.
 
 # 
 
@@ -257,7 +256,7 @@ Tupian ‘small’.
 
 ### 59: 'payment'
 
-Tupinambá _epɨ_, Tuparí _epei_, Waiwai _eɸe_, Pemon _epe-pɨ_, Hixkaryána _ehe-thɨrɨ_, Hixkaryána _ehe-ma_, Wayana _ehe-ma_, Bakairí _epɨ-wa_.
+Tupinambá _epɨ_, Tuparí _epei_, Waiwai _eɸe_, Pemon _epe-pɨ_, Hixkaryána _ehe-thɨrɨ_, Hixkaryána _ehe-ma_, Wayana _epe-ma_, Bakairí _epɨ_, Bakairí _epɨ-wa_.
 
 # 
 
@@ -270,7 +269,8 @@ PC ‘payment’.
 | _epe-pɨ_ | Pemon | e | p | e | 
 | _ehe-thɨrɨ_ | Hixkaryána | e | h | e | 
 | _ehe-ma_ | Hixkaryána | e | h | e | 
-| _ehe-ma_ | Wayana | e | h | e | 
+| _epe-ma_ | Wayana | e | p | e | 
+| _epɨ_ | Bakairí | - | - | e | 
 | _epɨ-wa_ | Bakairí | - | - | e | 
 | _epe_ | Proto-Cariban | e | p | e | 
 
