@@ -620,23 +620,23 @@ Clearly a loan from some TG language into Galibi Carib and Apalaí, as other Car
 PC _*əCnati_ ‘corn’.
 
 
-| Form | Language | - | - | - | - | - | - | - | - | 
-| :-- | :-- |  :-- |  :-- |  :-- |  :-- |  :-- |  :-- |  :-- |  :-- | 
-| _aʔnaiʔ_ | Akawaio-Ingariko | a | ʔ | n | a | - | - | i | ʔ | 
-| _ãʒi_ | Bakairí | - | - | - | a | � | ʒ | i | - | 
-| _ahãĩ_ | Bakairí | a | h | - | a | � | - | i | � | 
-| _anad͡ʒi_ | Carijona | a | - | n | a | d͡ʒ | - | i | - | 
-| _nasɨnasɨ_ | Hixkaryána | - | - | n | a | - | s | ɨ | - | 
-| _anat_ | Ikpeng | a | - | n | a | t | - | - | - | 
-| _oʔnasɨ_ | Kaxuiâna | o | ʔ | n | a | - | s | ɨ | - | 
-| _ana_ | Kuikúro-Kalapálo | a | - | n | a | - | - | - | - | 
-| _aʔnai_ | Macushi | a | ʔ | n | a | - | - | i | - | 
-| _ənɲa_ | Ye'kwana | ə | n | ɲ | a | - | - | - | - | 
-| _onat_ | Pará Arára | o | - | n | a | t | - | - | - | 
-| _aʔnai_ | Pemon | a | ʔ | n | a | - | - | i | - | 
-| _aanai_ | Trió | aa | - | n | a | - | - | i | - | 
-| _nasɨnasɨ_ | Waiwai | - | - | n | a | - | s | ɨ | - | 
-| _ehnai_ | Wayana | e | h | n | a | - | - | i | - | 
+| Form | Language | - | - | - | - | - | - | - | 
+| :-- | :-- |  :-- |  :-- |  :-- |  :-- |  :-- |  :-- |  :-- | 
+| _aʔnaiʔ_ | Akawaio-Ingariko | a | ʔ | n | a | - | i | ʔ | 
+| _ãʒi_ | Bakairí | - | - | - | ã | ʒ | i | - | 
+| _ahãĩ_ | Bakairí | a | h | - | ã | - | ĩ | - | 
+| _anad͡ʒi_ | Carijona | a | - | n | a | d͡ʒ | i | - | 
+| _nasɨnasɨ_ | Hixkaryána | - | - | n | a | s | ɨ | - | 
+| _anat_ | Ikpeng | a | - | n | a | t | - | - | 
+| _oʔnasɨ_ | Kaxuiâna | o | ʔ | n | a | s | ɨ | - | 
+| _ana_ | Kuikúro-Kalapálo | a | - | n | a | - | - | - | 
+| _aʔnai_ | Macushi | a | ʔ | n | a | - | i | - | 
+| _ənɲa_ | Ye'kwana | ə | n | ɲ | a | - | - | - | 
+| _onat_ | Pará Arára | o | - | n | a | t | - | - | 
+| _aʔnai_ | Pemon | a | ʔ | n | a | - | i | - | 
+| _aanai_ | Trió | aa | - | n | a | - | i | - | 
+| _nasɨnasɨ_ | Waiwai | - | - | n | a | s | ɨ | - | 
+| _ehnai_ | Wayana | e | h | n | a | - | i | - | 
 
 
 # 
