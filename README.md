@@ -680,3 +680,18 @@ PTG _*taraβe_ ‘cockroach’.
 | _arawe_ | Wayana | a | r | a | w | e | 
 | _alawɛ_ | Wayampi | a | l | a | w | ɛ | 
 
+
+## 'termite'
+
+
+
+PC _*nukə_ ‘termite’.
+
+
+| Form | Language | - | - | - | - | 
+| :-- | :-- |  :-- |  :-- |  :-- |  :-- | 
+| _nuko_ | Apalaí | n | u | k | o | 
+| _nukə_ | Wayana | n | u | k | ə | 
+| _ŋũke_ | Kuikúro-Kalapálo | ŋ | ũ | k | e | 
+| _nukə_ | Akurio | n | u | k | ə | 
+| _nukə_ | Trió | n | u | k | ə | 

@@ -1,51 +1,52 @@
 ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code
-enap1235,Panare,,6.95035,-65.8483,enap1235,pbh
-sate1243,Sateré-Mawé,,-3.63897,-56.8749,sate1243,mav
-tupa1251,Tuparic,,,,tupa1251,
-waya1270,Wayampi,,1.73817,-52.6887,waya1270,oym
-wayu1242,Wayumara,,3.133111,-61.210785,wayu1242,
-baka1277,Bakairí,,-14.2628,-54.7034,baka1277,bkq
-juru1256,Jurúna,,-10.9354,-53.3472,juru1256,jur
-arik1264,Arikem,,-8.924,-63.742,arik1264,ait
-mund1330,Mundurukú,,-8.41095,-57.691,mund1330,myu
-kuik1246,Kuikúro-Kalapálo,,-12.3035,-53.2261,kuik1246,kui
-macu1259,Macushi,,4.31861,-60.2209,macu1259,mbc
-paru1239,Proto-Parukotoan,,,,paru1239,
-hixk1239,Hixkaryána,,-0.16265,-58.80153,hixk1239,hix
 pemo1248,Pemon,,4.97031,-61.4033,pemo1248,aoc
-xipa1240,Xipaya,,-4.133,-49.948,xipa1240,xiy
-para1310,Pará Arára,,-3.71263,-53.0657,para1310,aap
-cari1283,Proto-Cariban,,,,cari1283,
-tupi1273,Tupinambá,,-22.807778,-42.106389,tupi1273,tpn
-apal1257,Apalaí,,1.49792,-54.7457,apal1257,apy
-maqu1238,Ye'kwana,,4.70705,-64.3877,maqu1238,mch
-tupa1250,Tuparí,,-11.8884,-62.2544,tupa1250,tpr
-suru1262,Suruí,,-11.0989,-61.2818,suru1262,sru
-gali1262,Galibi Carib,,5.83772,-56.8323,gali1262,car
-waim1253,Waimiri-Atroari,,-0.61832,-60.4259,waim1253,atr
-kaxu1237,Kaxuiâna,,2.17138,-55.9101,kaxu1237,kbb
-mapo1246,Mapoyo,,5.96952,-67.2581,mapo1246,mcg
-trio1238,Trió,,2.53616,-55.7599,trio1238,tri
-tama1338,Tamanaku,,2.765,-65.883,tama1338,tmz
-waiw1244,Waiwai,,1.50881,-59.1417,waiw1244,waw
-arec1238,Arecuna,,,,arec1238,
 kari1311,Karitiâna,,-9.37937,-64.1522,kari1311,ktn
-waya1269,Wayana,,2.77537,-54.4429,waya1269,way
-yukp1241,Yukpa,,9.67534,-73.0557,yukp1241,yup
-gavi1246,Gavião Do Jiparaná,,-10.7235,-61.6752,gavi1246,gvo
-inga1250,Ingariko,,,,inga1250,
-waiw1245,Proto-Waiwaian,,,,waiw1245,
-taul1252,Taurepang-Arekuna,,,,taul1252,
-tupi1276,Proto-Tupi-Guarani,,,,tupi1276,
-ikpe1245,Ikpeng,,-11.37822,-53.49553,ikpe1245,txi
-mawe1252,Proto-Maweti-Guarani,,,,mawe1252,
-karo1305,Karo (Brazil),,-10.3342,-61.5691,karo1305,arr
-awet1244,Awetí,,-12.381944,-53.391944,awet1244,awe
-kuru1309,Kuruáya,,-3.09561,-52.2303,kuru1309,kyr
+xipa1240,Xipaya,,-4.133,-49.948,xipa1240,xiy
+tupi1273,Tupinambá,,-22.807778,-42.106389,tupi1273,tpn
+trio1238,Trió,,2.53616,-55.7599,trio1238,tri
 isla1278,Island Carib,,15.364795,-61.342957,isla1278,crb
-tara1324,Proto-Taranoan,,,,tara1324,
+baka1277,Bakairí,,-14.2628,-54.7034,baka1277,bkq
+macu1259,Macushi,,4.31861,-60.2209,macu1259,mbc
+arik1264,Arikem,,-8.924,-63.742,arik1264,ait
+juru1256,Jurúna,,-10.9354,-53.3472,juru1256,jur
 yaba1248,Yabarana,,5.32692,-66.276,yaba1248,yar
-akaw1239,Akawaio-Ingariko,,6.16277,-60.862,akaw1239,ake
-nhen1239,Nhengatu,,1.04503,-66.9646,nhen1239,yrl
-cari1279,Carijona,,1.21894,-72.0664,cari1279,cbd
+enap1235,Panare,,6.95035,-65.8483,enap1235,pbh
+akur1238,Akurio,,3.19607,-55.6294,akur1238,ako
+apal1257,Apalaí,,1.49792,-54.7457,apal1257,apy
+tupi1276,Proto-Tupi-Guarani,,,,tupi1276,
+waya1270,Wayampi,,1.73817,-52.6887,waya1270,oym
+suru1262,Suruí,,-11.0989,-61.2818,suru1262,sru
+paru1239,Proto-Parukotoan,,,,paru1239,
+arec1238,Arecuna,,,,arec1238,
+cari1283,Proto-Cariban,,,,cari1283,
+kuik1246,Kuikúro-Kalapálo,,-12.3035,-53.2261,kuik1246,kui
+para1310,Pará Arára,,-3.71263,-53.0657,para1310,aap
+kuru1309,Kuruáya,,-3.09561,-52.2303,kuru1309,kyr
+maqu1238,Ye'kwana,,4.70705,-64.3877,maqu1238,mch
+tara1324,Proto-Taranoan,,,,tara1324,
+wayu1242,Wayumara,,3.133111,-61.210785,wayu1242,
+ikpe1245,Ikpeng,,-11.37822,-53.49553,ikpe1245,txi
+sate1243,Sateré-Mawé,,-3.63897,-56.8749,sate1243,mav
+awet1244,Awetí,,-12.381944,-53.391944,awet1244,awe
+waiw1245,Proto-Waiwaian,,,,waiw1245,
+tupa1251,Tuparic,,,,tupa1251,
+gavi1246,Gavião Do Jiparaná,,-10.7235,-61.6752,gavi1246,gvo
+taul1252,Taurepang-Arekuna,,,,taul1252,
+hixk1239,Hixkaryána,,-0.16265,-58.80153,hixk1239,hix
+waiw1244,Waiwai,,1.50881,-59.1417,waiw1244,waw
+mawe1252,Proto-Maweti-Guarani,,,,mawe1252,
+inga1250,Ingariko,,,,inga1250,
 akun1241,Akuntsu,,-12.8322,-60.9716,akun1241,aqz
+akaw1239,Akawaio-Ingariko,,6.16277,-60.862,akaw1239,ake
+kaxu1237,Kaxuiâna,,2.17138,-55.9101,kaxu1237,kbb
+tama1338,Tamanaku,,2.765,-65.883,tama1338,tmz
+cari1279,Carijona,,1.21894,-72.0664,cari1279,cbd
+karo1305,Karo (Brazil),,-10.3342,-61.5691,karo1305,arr
+nhen1239,Nhengatu,,1.04503,-66.9646,nhen1239,yrl
+mapo1246,Mapoyo,,5.96952,-67.2581,mapo1246,mcg
+waim1253,Waimiri-Atroari,,-0.61832,-60.4259,waim1253,atr
+gali1262,Galibi Carib,,5.83772,-56.8323,gali1262,car
+yukp1241,Yukpa,,9.67534,-73.0557,yukp1241,yup
+tupa1250,Tuparí,,-11.8884,-62.2544,tupa1250,tpr
+mund1330,Mundurukú,,-8.41095,-57.691,mund1330,myu
+waya1269,Wayana,,2.77537,-54.4429,waya1269,way
