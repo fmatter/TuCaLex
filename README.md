@@ -661,7 +661,7 @@ Single form _arawe_ loaned from from Wayampi-Zoe-Emerillon and/or Nhengatu (lang
 
 
 
-cockroach
+PTG _*taraβe_ ‘cockroach’.
 
 
 | Form | Language | - | - | - | - | - | 
