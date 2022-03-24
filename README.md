@@ -611,7 +611,44 @@ Tupian ‘timbó’.
 
 ## 'corn'
 
-Akawaio-Ingariko _aʔnaiʔ_, Apalaí _awaʃi_, Carijona _anad͡ʒi_, Galibi Carib _awasi_, Hixkaryána _nasɨnasɨ_, Ikpeng _anat_, Island Carib _awaʃi_, Kaxuiâna _oʔnasɨ_, Kuikúro-Kalapálo _ana_, Macushi _aʔnai_, Ye'kwana _ənɲa_, Pará Arára _onat_, Pemon _aʔnai_, Trió _aanai_, Tupinambá _aβati_, Waiwai _nasɨnasɨ_, Wayana _ehnai_, Wayampi _fat_.
+Apalaí _awaʃi_, Galibi Carib _awasi_, Island Carib _awaʃi_, Tupinambá _aβati_.
+
+# 
+
+PC _*əCnati_ ‘corn’.
+
+
+| Form | Language | - | - | - | - | - | - | - | - | - | - | 
+| :-- | :-- |  :-- |  :-- |  :-- |  :-- |  :-- |  :-- |  :-- |  :-- |  :-- |  :-- | 
+| _aʔnaiʔ_ | Akawaio-Ingariko | - | - | a | ʔ | - | n | a | - | i | ʔ | 
+| _ãʒi_ | Bakairí | - | - | - | - | a | � | - | ʒ | i | - | 
+| _ahãĩ_ | Bakairí | - | - | a | h | - | - | a | � | i | � | 
+| _anad͡ʒi_ | Carijona | - | - | - | - | a | n | a | d͡ʒ | i | - | 
+| _nasɨnasɨ_ | Hixkaryána | - | n | a | s | ɨ | n | a | s | ɨ | - | 
+| _anat_ | Ikpeng | - | - | - | - | a | n | a | t | - | - | 
+| _oʔnasɨ_ | Kaxuiâna | - | - | o | ʔ | - | n | a | s | ɨ | - | 
+| _ana_ | Kuikúro-Kalapálo | - | - | - | - | a | n | - | - | a | - | 
+| _aʔnai_ | Macushi | - | - | a | ʔ | - | n | a | - | i | - | 
+| _ənɲa_ | Ye'kwana | ə | n | - | - | - | ɲ | - | - | a | - | 
+| _onat_ | Pará Arára | - | - | - | - | o | n | a | t | - | - | 
+| _aʔnai_ | Pemon | - | - | a | ʔ | - | n | a | - | i | - | 
+| _aanai_ | Trió | - | - | - | - | aa | n | a | - | i | - | 
+| _nasɨnasɨ_ | Waiwai | - | n | a | s | ɨ | n | a | s | ɨ | - | 
+| _ehnai_ | Wayana | - | - | e | h | - | n | a | - | i | - | 
+
+
+# 
+
+PTG _*aβati_ ‘corn’.
+
+
+| Form | Language | - | - | - | - | - | 
+| :-- | :-- |  :-- |  :-- |  :-- |  :-- |  :-- | 
+| _awasi_ | Galibi Carib | a | w | a | s | i | 
+| _awaʃi_ | Island Carib | a | w | a | ʃ | i | 
+| _aβati_ | Tupinambá | a | β | a | t | i | 
+| _fat_ | Wayampi | - | f | a | t | - | 
+
 
 # References
 
