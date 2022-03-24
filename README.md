@@ -613,6 +613,8 @@ Tupian ‘timbó’.
 
 Apalaí _awaʃi_, Galibi Carib _awasi_, Island Carib _awaʃi_, Tupinambá _aβati_.
 
+Clearly a loan from some TG language into Galibi Carib and Apalaí, as other Cariban languages show cognate forms.
+
 # 
 
 PC _*əCnati_ ‘corn’.
