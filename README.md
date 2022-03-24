@@ -617,7 +617,7 @@ Clearly a loan from some TG language into Galibi Carib and Apalaí, as other Car
 
 # 
 
-PC _*əCnati_ ‘corn’.
+PC _*əCVnati_ ‘corn’. CV syllable reduced everywhere.
 
 
 | Form | Language | - | - | - | - | - | - | - | 
@@ -657,26 +657,26 @@ PTG _*aβati_ ‘corn’.
 
 Galibi Carib _alawi_, Island Carib _elewe_, Pemon _araut_, Tupinambá _araβe_.
 
-Loaned from Wayampi-Zoe-Emerillon and/or Nhengatu into Galibi Carib, Apalaí, Pemon, Wayana, and Trió.
+Single form _arawe_ loaned from from Wayampi-Zoe-Emerillon and/or Nhengatu (languages with loss of initial _*t_) into Cariban. Pemongan added some initial material.
 
 
 
 cockroach
 
 
-| Form | Language | - | - | - | - | - | - | - | - | - | 
-| :-- | :-- |  :-- |  :-- |  :-- |  :-- |  :-- |  :-- |  :-- |  :-- |  :-- | 
-| _masarawe_ | Akawaio-Ingariko | m | a | s | a | r | a | w | e | - | 
-| _alawi_ | Galibi Carib | - | - | - | a | l | a | w | i | - | 
-| _arawe_ | Galibi Carib | - | - | - | a | r | a | w | e | - | 
-| _elewe_ | Island Carib | - | - | - | e | l | e | w | e | - | 
-| _masaruwa_ | Macushi | m | a | s | a | r | u | w | a | - | 
-| _arawe_ | Nhengatu | - | - | - | a | r | a | w | e | - | 
-| _araut_ | Pemon | - | - | - | a | r | a | - | u | t | 
-| _arawe_ | Pemon | - | - | - | a | r | a | w | e | - | 
-| _asarwa_ | Pemon | - | a | s | a | r | - | w | a | - | 
-| _arawe_ | Trió | - | - | - | a | r | a | w | e | - | 
-| _araβe_ | Tupinambá | - | - | - | a | r | a | β | e | - | 
-| _arawe_ | Wayana | - | - | - | a | r | a | w | e | - | 
-| _alawɛ_ | Wayampi | - | - | - | a | l | a | w | ɛ | - | 
+| Form | Language | - | - | - | - | - | 
+| :-- | :-- |  :-- |  :-- |  :-- |  :-- |  :-- | 
+| _masarawe_ | Akawaio-Ingariko | a | r | a | w | e | 
+| _alawi_ | Galibi Carib | a | l | a | w | i | 
+| _arawe_ | Galibi Carib | a | r | a | w | e | 
+| _elewe_ | Island Carib | e | l | e | w | e | 
+| _masaruwa_ | Macushi | a | r | u | w | a | 
+| _arawe_ | Nhengatu | a | r | a | w | e | 
+| _araut_ | Pemon | a | r | a | - | u | 
+| _arawe_ | Pemon | a | r | a | w | e | 
+| _asarwa_ | Pemon | a | r | - | w | a | 
+| _arawe_ | Trió | a | r | a | w | e | 
+| _araβe_ | Tupinambá | a | r | a | β | e | 
+| _arawe_ | Wayana | a | r | a | w | e | 
+| _alawɛ_ | Wayampi | a | l | a | w | ɛ | 
 
