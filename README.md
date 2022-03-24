@@ -504,7 +504,7 @@ Tupinambá _so_, Mundurukú _t͡ʃɨ_, Sateré-Mawé _to_, Awetí _to_, Waiwai _
 
 # 
 
-Cariban ‘to go’.
+PC _*ɨtəmə_ ‘to go’.
 
 
 | Form | Language | - | - | - | - | - | 
@@ -513,8 +513,8 @@ Cariban ‘to go’.
 | _to_ | Hixkaryána | - | t | - | - | o | 
 | _də_ | Bakairí | - | d | - | - | ə | 
 | _ɨtəmə_ | Proto-Cariban | ɨ | t | ə | m | ə | 
-| _ɨtəmə_ | Ye'kwana | ɨ | t | ə | m | ə | 
-| _[e]to[m]_ | Waiwai | e | t | o | m | - | 
+| _ɨtə(mə)_ | Ye'kwana | ɨ | t | ə | m | ə | 
+| _(e)to(m)_ | Waiwai | e | t | o | m | - | 
 
 
 # 
@@ -537,7 +537,7 @@ Tupinambá _ʔe_, Tuparí _ke_, Tuparí _ka_, Mundurukú _ʔe_, Waiwai _ka_, Hix
 
 # 
 
-PC ‘to say, do’.
+PC _*ka(ti)_ ‘to say, do’.
 
 
 | Form | Language | - | - | - | - | 
@@ -606,6 +606,14 @@ Tupian ‘timbó’.
 | _niŋ_ | Tuparí | n | i | - | ŋ | 
 | _*tĩ(ĩ)k_ | Tuparic | t | ĩ | ĩ | k | 
 
+
+## List B: Loanwords
+
+## 'corn'
+
+Akawaio-Ingariko _aʔnaiʔ_, Apalaí _awaʃi_, Carijona _anad͡ʒi_, Galibi Carib _awasi_, Hixkaryána _nasɨnasɨ_, Ikpeng _anat_, Island Carib _awaʃi_, Kaxuiâna _oʔnasɨ_, Kuikúro-Kalapálo _ana_, Macushi _aʔnai_, Ye'kwana _ənɲa_, Pará Arára _onat_, Pemon _aʔnai_, Trió _aanai_, Tupinambá _aβati_, Waiwai _nasɨnasɨ_, Wayana _ehnai_, Wayampi _fat_.
+
+# References
 
 - Alves, Ana Carolina Ferreira. 2010. Phonological Aspects of Arara (Carib, Brazil). (MA thesis).
 - Alves, Ana Carolina Ferreira. 2017. Morfofonologia, morfossintaxe e o sistema de tempo, aspecto e modo em Arara (Karib). (Doctoral dissertation).
