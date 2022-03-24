@@ -653,62 +653,30 @@ PTG _*aβati_ ‘corn’.
 | _fat_ | Wayampi | - | f | a | t | - | 
 
 
-# References
+## 'cockroach'
 
-- Alves, Ana Carolina Ferreira. 2010. Phonological Aspects of Arara (Carib, Brazil). (MA thesis).
-- Alves, Ana Carolina Ferreira. 2017. Morfofonologia, morfossintaxe e o sistema de tempo, aspecto e modo em Arara (Karib). (Doctoral dissertation).
-- Amodio, Emanuelle and Pira, Vicente. 1996. Língua Makuxi, Makuxi maimu: Guias para a aprendizagem e dicionário da língua Makuxi. Roraima: Nordeste Gráfica.
-- Bruno, Ana Carla dos Santos. 1996. Dicionário Waimiri-Atroari-Português. Manaus: Programa {Waimirí-Atroari} / Conevênio {FUNAI}-Eletronorte.
-- Camargo, Eliane. 2002. Léxico bilingüe: aparai-português / português-aparai. München: Lincom Europa.
-- Camargo, Eliane and Tapinkili, Anaiman. 2010. Hakëne omijau eitop Wajana-Palasisi / Dictionnaire bilingue Wayana-Français. Paris: CELIA/DRAC-Guyane, TEKUREMAI.
-- Courtz, Henk. 2008. A Carib grammar and dictionary. Toronto: Magoria Books.
-- Cunha, Carla Maria. 2004. Um estudo de fonologia da língua Makuxi (karib): inter-relações das teorias fonológicas. (Doctoral dissertation).
-- de Goeje, Claudius Henricus. 1946. Grammaire et vocabulaire de la langue Oayana 1937. In Études linguistiques caribes, 100–238. Amsterdam: Koninklijke Akademie van Wetenschappen te Amsterdam.
-- García Ferrer, Donaldo José. 2006. Diccionario piloto pemón-español. (MA thesis).
-- Gildea, Spike and Payne, Doris. 2007. Is Greenberg's “Macro-Carib” viable?. Boletim do Museu Paraense Emílio Goeldi. Ciências Humanas 2. 19–72.
-- Hawkins, Robert E. and Key, Mary Ritchie. 2015. Wai Wai. In Key, Mary Ritchie and Comrie, Bernard (eds.), The Intercontinental Dictionary Series. Leipzig: Max Planck Institute for Evolutionary Anthropology.
-- Derbyshire, Desmond C. 1979. Hixkaryana. (Lingua Descriptive Studies, 1.) Amsterdam: North-Holland.
-- Howard, Catherine V. 2001. Wrought Identities: The Waiwai expeditions in search of the “unseen tribes” of Northern Amazonia. (Doctoral dissertation).
-- Pachêco, Frantomé B. 2001. Morfossintaxe do verbo Ikpeng (Karíb). (Doctoral dissertation).
-- Koch-Grünberg, Theodor. 1908. Die Hianákoto-Umáua. Anthropos 3. 83–124,297–335,952–982.
-- dos Santos, Gélsama Mara Ferreira. 2007. Morfologia Kuikuro: Gerando nomes e verbos. (Doctoral dissertation).
-- Largo, Wilson S. 2011. Una gramática Yukpa. (unpublished).
-- Cáceres, Natalia. 2011. Grammaire fonctionnelle-typologique du ye'kwana, langue caribe du Venezuela. (Doctoral dissertation).
-- Mattéi-Müller, Marie-Claude. 1994. Diccionario ilustrado Panare-Español, Índice Español-Panare: Un aporte al estudio de los Panares-E'ñepa. Caracas: Graficas Armitano.
-- Meira, Sérgio. 1998. A reconstruction of Proto-Taranoan: Phonology and Inflectional Morphology. (MA thesis).
-- Meira, Sérgio. 2005. Reconstructing Pre-Bakairi Segmental Phonology. Anthropological Linguistics 47. 261–291.
-- Meira, Sérgio. 2022. Apalaí shoebox database.
-- Meira, Sérgio. 2022. Bakairí shoebox database.
-- Meira, Sérgio. 2022. Comparative Cariban shoebox database.
-- Meira, Sérgio. 2022. Ikpeng shoebox database.
-- Meira, Sérgio. 2022. Werikyana shoebox database.
-- Meira, Sérgio. 2022. Macushi shoebox database.
-- Meira, Sérgio. 2022. Panare shoebox database.
-- Meira, Sérgio. 2022. Waiwai shoebox database.
-- Mattéi-Müller, Marie Claude. 1975. Vocabulario básico de la lengua mapoya. Antropológica 42. 57–78.
-- de Armellada, Cesáreo. 1944. Gramática y diccionario de la lengua {Pemón}. (2.) Caracas: Artes Gráficas.
-- Stegeman, Ray and Hunter, Rita. 2014. Akawaio-English Dictionary. SIL International.
-- Swiggers, Gisela. 2010. Gramática de Referencia del Pemón. (Doctoral dissertation).
-- Carlin, Eithne B. 2004. A Grammar of Trio: A Cariban Language of Suriname. (Duisburger Arbeiten zur Sprach- und Kulturwissenschaft, 55.) Frankfurt am Main: Peter Lang.
-- Meira, Sérgio. 1999. A Grammar of Tiriyó. (Doctoral dissertation).
-- Hawkins, Robert E. 1998. Wai Wai. In Derbyshire, Desmond C. and Pullum, Geoffrey K. (eds.), Handbook of Amazonian Languages, 25–224. Berlin/New York: Mouton de Gruyter.
-- Tavares, Petronila da Silva. 2005. A grammar of Wayana. UMI. (Doctoral dissertation).
-- Alves, Poliana. 2004. O léxico do Tupari: proposta de um dicionário bilíngüe. (Doctoral dissertation, 272pp.)
-- Aragon, Carolina Coelho. 2008. Fonologia e aspectos morfológicos e sintáticos da língua Akuntsú. (MA thesis).
-- Birchall, Joshua and OliveiraI, Luis Henrique and Jordan, Fiona M. 2019. A note on the kinship system in Proto-Tupí-Guaraní. Boletim do Museu Paraense Emílio Goeldi. Ciências Humanas 14. 79–99. SciELO Brasil.
-- Bontkes, Willem. 1978. Dicionário preliminar Suruí-Português - Português-Suruí. Porto Velho: SIL. 40pp.
-- Crofts, Marjorie. 2004. Aspectos da Língua Munduruku. 2nd edn. Cuiabá: Sociedade Internacional de Lingüística. xxii+305pp.
-- Everett, Caleb. 2006. Gestural, perceptual, and conceptual patterns in Karitiana. (Doctoral dissertation).
-- Gabas and Jr. and Nilson. 1999. A Grammar of Karo, Tupí (Brazil). Ann Arbor: UMI. (Doctoral dissertation, xxiii+297pp.)
-- Gerardi, Fabrício Ferraz and Reichert, Stanislav and Aragon, Carolina and List, Johann-Mattis and Wientzek, Tim. 2021-03. TuLeD: Tupían lexical database. Zenodo.
-- Junior, Djalma Gomes Mendes. 2007. Comparação Fonológica do Kuruáya com o Mundurukú. (MA thesis, 66pp.)
-- Grenand, Françoise and Alasuka, Raymond and Key, Mary Ritchie. 2021. Wayampi. In Key, Mary Ritchie and Comrie, Bernard (eds.), The Intercontinental Dictionary Series. Leipzig: Max Planck Institute for Evolutionary Anthropology.
-- Meira, Sérgio and Drude, Sebastian. 2015. A summary reconstruction of proto-Maweti-Guarani segmental phonology. Boletim do Museu Paraense Emílio Goeldi: Ciências Humanas 10. 275–296.
-- Mello, Antônio Augusto Souza. 2000. Estudo histórico da família lingüística Tupí-Guaraní: aspectos fonológicos e lexicais. (Doctoral dissertation, 292pp.)
-- Moore, Denny. 1984. Syntax of the Language of the Gavião Indians of Rondônia, Brazil. City University of New York Ph.D. Dissertation. (Doctoral dissertation).
-- Nikulin, Andrey and Andrade, Rafael. 2020. The rise and fall of approximants in the Tuparian languages. Journal of Language Relationship 18. 284–319.
-- Picanço, Gessiane Lobato. 2005. Munduruku: Phonetics, phonology, synchrony, diachrony (Brazil). (Doctoral dissertation, 410pp.)
-- Picanço, Gessiane Lobato. 2020. A Fonologia Diacrônica do Proto-Mundurukú (Tupí). Curitiba: Editora Appris.
-- Rodrigues, Aryon D. 1985. Evidence for Tupi-Carib relationships. In Manelis Klein, Harriet E. and Stark, Louisa R. (eds.), South American Indian languages, 371–404. University of Texas Press.
-- Rodrigues, Carmen Lúcia Reis. 1995. Étude Morphosyntaxique de la langue Xipaya (Brésil). París: Université Paris VII. Jussieu. (Doctoral dissertation, 281pp.)
-- n.d. Placeholder for data obtained from personal communication.
+Galibi Carib _alawi_, Island Carib _elewe_, Pemon _araut_, Tupinambá _araβe_.
+
+Loaned from Wayampi-Zoe-Emerillon and/or Nhengatu into Galibi Carib, Apalaí, Pemon, Wayana, and Trió.
+
+
+
+cockroach
+
+
+| Form | Language | - | - | - | - | - | - | - | - | - | 
+| :-- | :-- |  :-- |  :-- |  :-- |  :-- |  :-- |  :-- |  :-- |  :-- |  :-- | 
+| _masarawe_ | Akawaio-Ingariko | m | a | s | a | r | a | w | e | - | 
+| _alawi_ | Galibi Carib | - | - | - | a | l | a | w | i | - | 
+| _arawe_ | Galibi Carib | - | - | - | a | r | a | w | e | - | 
+| _elewe_ | Island Carib | - | - | - | e | l | e | w | e | - | 
+| _masaruwa_ | Macushi | m | a | s | a | r | u | w | a | - | 
+| _arawe_ | Nhengatu | - | - | - | a | r | a | w | e | - | 
+| _araut_ | Pemon | - | - | - | a | r | a | - | u | t | 
+| _arawe_ | Pemon | - | - | - | a | r | a | w | e | - | 
+| _asarwa_ | Pemon | - | a | s | a | r | - | w | a | - | 
+| _arawe_ | Trió | - | - | - | a | r | a | w | e | - | 
+| _araβe_ | Tupinambá | - | - | - | a | r | a | β | e | - | 
+| _arawe_ | Wayana | - | - | - | a | r | a | w | e | - | 
+| _alawɛ_ | Wayampi | - | - | - | a | l | a | w | ɛ | - | 
+
